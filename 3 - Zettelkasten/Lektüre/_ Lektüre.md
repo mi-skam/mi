@@ -1,0 +1,1 @@
+Ich verwalte meine Lektüre-Notizen in meiner Zotero-Datenbank.
