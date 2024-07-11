@@ -1,1 +1,1 @@
-Ich verwalte meine Lektüre-Notizen in meiner Zotero-Datenbank.
+Ich verwalte meine Lektüre-Notizen in meiner Zotero-Datenbank. Diese wird mobil und am Desktop über einen Client verwaltet, alternativ kann man auch über ein [Web frontend](https://www.zotero.org/plumps/library) zugreifen.
