@@ -1,15 +1,7 @@
 ---
-company:
-  - "[[Uni Halle]]"
-location: Halle (Saale)
-title: HiWi
-email: benjamin@new-objects.com
-aliases: 
-languages: 
-date_last_spoken: 
-follow_up: 
 tags:
   - people
+modified: 2024-08-20T11:57:29+02:00
 ---
 
 # [[Benjamin Schmidt]]

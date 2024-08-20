@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+modified: 2024-08-20T11:52:18+02:00
 ---
 ## 1. Begrüßung
 ## 2. Icebreaker
