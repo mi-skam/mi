@@ -1,8 +1,6 @@
 ---
-in: "[[Meetings]]"
-related: 
-created:
-  "{ date }":
+created: 2024-07-11T09:16:44+02:00
+modified: 2024-08-20T16:19:36+02:00
 ---
 
 participants:: [[Tom Hanke]], [[Malte Westphalen]], [[Elke Böckstiegel]]

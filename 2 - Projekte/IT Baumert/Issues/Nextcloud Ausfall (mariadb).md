@@ -11,4 +11,4 @@ modified: 2024-08-20T14:00:24+02:00
 > ![[baumert_cloud_3.jpg]]
 
 
-[[2024-08-20]] 09:11 bekomme ich die Nachricht von [[Sven Baumert|Sven]] 
+[[2024-08-20]] 09:11 bekomme ich die Nachricht von [[Sven Baumert|Sven]], dass [[Chris Schnabel]] sagt, dass es an 
