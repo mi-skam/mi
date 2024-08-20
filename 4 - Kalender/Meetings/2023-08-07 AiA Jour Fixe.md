@@ -1,14 +1,20 @@
 ---
 created: 2023-08-07
 type: meeting
-company:
+company: 
 summary: ""
-tags:
+tags: 
+attendees:
+  - "[[Malte Westphalen]]"
+  - "[[Heike Schmidt]]"
+  - "[[Katrin Beutner]]"
+  - "[[Juliane Lamprecht]]"
+  - "[[Sigrid Roggendorf]]"
+  - "[[Benjamin Schmidt]]"
+modified: 2024-08-20T14:17:25+02:00
 ---
 
 # [[2023-08-07 AiA Jour Fixe]]
-
-attendees:: [[Malte Westphalen]], [[Heike Schmidt]], [[Katrin Beutner]], [[Juliane Lamprecht]], [[Sigrid Roggendorf]], [[Benjamin Schmidt]]
 
 ## Log
 
