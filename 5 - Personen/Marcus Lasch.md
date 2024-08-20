@@ -1,7 +1,8 @@
 ---
-in: "[[People]]"
-related: 
 created: 2024-06-06
+tags:
+  - people
+modified: 2024-08-20T14:04:27+02:00
 ---
 
 berät Menschen, die sich für die Gründung von Genossenschaften interessieren. Wir haben den Kontakt zu ihm aufgenommen um über [[Solav]] zu sprechen.

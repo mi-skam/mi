@@ -1,8 +1,8 @@
 ---
-in:
-  - "[[People]]"
-related: 
 created: 2024-06-06
+tags:
+  - people
+modified: 2024-08-20T14:02:47+02:00
 ---
 
 > *Anträge*

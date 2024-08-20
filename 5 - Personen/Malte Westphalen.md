@@ -1,40 +1,8 @@
 ---
-company: 
-location: 
-title: 
-email: 
-aliases: 
-languages: 
-date_last_spoken: 
-follow_up: 
 tags:
   - people
+modified: 2024-08-20T14:04:55+02:00
 ---
-
-# [[Malte Westphalen]]
-
-
-## Agenda
-- [ ] 
-
-## How we met
-
-
-## History
-- 
-
-## Family
-- 
-
-## Personality
-- [OGAS framework](https://notes.nicolevanderhoeven.com/OGAS+framework)
-	- *Goal*:
-	- *Attitude*:
-	- *Stake*:
-- [Ideals Bonds Flaws](https://notes.nicolevanderhoeven.com/Ideals+Bonds+Flaws)
-	- *Ideals*:
-	- *Bonds*:
-	- *Flaws*:
 
 ## Meetings
 ```dataview
