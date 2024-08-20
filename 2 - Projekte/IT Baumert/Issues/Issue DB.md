@@ -18,9 +18,10 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
+    width: 124
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,17 +31,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Type:
-    input: select
-    accessorKey: Type
-    key: Type
-    id: Type
-    label: Type
-    position: 100
+  Date:
+    input: calendar
+    accessorKey: Date
+    key: Date
+    id: Date
+    label: Date
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
+    width: 124
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -50,16 +51,19 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  __tags__:
-    key: __tags__
-    id: __tags__
-    input: metadata_tags
-    label: File Tags
-    accessorKey: __tags__
-    isMetadata: true
-    isDragDisabled: false
+  Project:
+    input: select
+    accessorKey: Project
+    key: Project
+    id: Type
+    label: Project
+    position: 3
     skipPersist: false
-    csvCandidate: false
+    isHidden: false
+    sortIndex: -1
+    width: 184
+    options:
+      - { label: "nextcloud migration", value: "nextcloud migration", color: "hsl(118, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -69,8 +73,9 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
 config:
-  remove_field_when_delete_column: false
+  remove_field_when_delete_column: true
   cell_size: normal
   sticky_first_column: false
   group_folder_column: 
@@ -82,8 +87,8 @@ config:
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: true
-  source_data: query
+  show_metadata_tags: false
+  source_data: current_folder_without_subfolders
   source_form_result: 
   source_destination_path: /
   row_templates_folder: /
