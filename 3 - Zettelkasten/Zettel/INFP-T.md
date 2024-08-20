@@ -1,5 +1,6 @@
 ---
 date: 2024-02-08
+modified: 2024-08-20T11:47:15+02:00
 ---
 
 Ist nach [16personalities](https://www.16personalities.com/de/infp-personlichkeit) mein Persönlichkeitstyp und wird auch als "turbulenter Mediator" (t => turbulent) bezeichnet.
@@ -26,3 +27,4 @@ Turbulent mediators tend to be dissatisfied with their current state and uses th
 | ENFP              | ENTJ (Strategic vs. Authentic)       |
 | ISFJ              | ESFJ (Traditional vs. Free-spirited) |
 | ISTJ              | ESTP (Stable vs. Spontaneous)        |
+|                   |                                      |
