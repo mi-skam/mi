@@ -1,5 +1,4 @@
 ---
-in: "[[Meetings]]"
 related: 
 created:
   "{ date }":
