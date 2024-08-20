@@ -6,5 +6,12 @@
   "newFileFolderPath": "1 - Inbox",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "0 - Meta/Attachments",
-  "showRibbon": true
+  "showRibbon": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
