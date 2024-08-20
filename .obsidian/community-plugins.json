@@ -3,5 +3,13 @@
   "obsidian-version-history-diff",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "google-calendar"
+  "google-calendar",
+  "obsidian-linter",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-hover-editor",
+  "url-into-selection",
+  "settings-search",
+  "obsidian-list-callouts",
+  "frontmatter-modified-date",
+  "table-editor-obsidian"
 ]
