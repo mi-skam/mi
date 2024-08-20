@@ -1,5 +1,5 @@
 
-## [[Scratch]]
+## [[1 - Inbox/Scratch]]
 
 https://scratch.mit.edu 
 ```qrcode

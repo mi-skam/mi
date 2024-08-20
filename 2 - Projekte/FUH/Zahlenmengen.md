@@ -36,7 +36,7 @@ Intuition für den Beweis dafür dass die Zahl $\sqrt{2}$ keine rationale Zahl i
 
 ### Beschränkte Mengen
 
-Eine [[Mengen#Teilmengen und echte Teilmengen|Teilmenge]] $M$ von $\mathbb{R}$ ist beschränkt, wenn gilt:
+Eine [[1 - Inbox/Mengen#Teilmengen und echte Teilmengen|Teilmenge]] $M$ von $\mathbb{R}$ ist beschränkt, wenn gilt:
 
 > [!NOTE] Definition
 > Sei $M \subseteq \mathbb{R}$:

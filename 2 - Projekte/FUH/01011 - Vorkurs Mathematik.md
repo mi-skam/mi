@@ -10,18 +10,18 @@ Hier ein wichtiger Hinweis aus dem Informationsschreiben
 
 ## Rechnen
 
-[[Mengen]]
+[[1 - Inbox/Mengen]]
 [[Zahlenmengen]]
 [[Rechnen mit Zahlen]]
 
-### [[Mengen#Wie man Mengen beschreibt]]
+### [[1 - Inbox/Mengen#Wie man Mengen beschreibt]]
 
 Aufgabe:
 
 1. $M_1 = \{ n \in \mathbb{N} \; | \; \text{n ist ungerade} \}$
 2. $M_2 = \{n \in \mathbb{N} \; | \; n^2 \}$
 
-### [[Mengen#Durchschnitt]]
+### [[1 - Inbox/Mengen#Durchschnitt]]
 
 Aufgabe:
 
@@ -30,7 +30,7 @@ Aufgabe:
 3. "- Wenn M eine endliche und N eine unendliche Menge ist, dann ist M∩N eine endliche Menge." Das stimmt auch, da die mögliche Anzahl der Menge von der Mächtigkeit aller Elemente in M begrenzt wird.
 4. "Wenn M∩N=M ist, dann ist M eine Teilmenge von N." Das stimmt, wenn M eine Teilmenge von N ist, bedeutet dass das alle Elemente von M in N sein müssen und das ist gegeben, da der Durchschnitt von M und N gleich M ist, anders ausgedrückt in M sind nicht mehr Elemente also in N und N besitzt mindestens genau die gleichen Elemente wie in M oder mehr. **Lösung aus dem Heft**: M∩N ist Teilmenge von N und nach Voraussetzung gilt M auch also Teilmenge von N
 
-### [[Mengen#Vereinigung]]
+### [[1 - Inbox/Mengen#Vereinigung]]
 
 Aufgabe:
 
@@ -39,7 +39,7 @@ Aufgabe:
 2. "Wenn $N = \emptyset$ ist, dann ist $M \cup N = M$" Ja, da $|N| = 0$ und somit $|M \cup N| = |M|$ **Lösung des Buchs**: $M \cup N = M \cup \emptyset = M$
 3. "Wenn $M \cup N = M$ ist, dann ist $N$ die leere Menge". Falsch, wenn $N \subseteq M$ , dann ist $M \cup N = M$ und $N$ kann, muss aber nicht $\emptyset$ sein, z.B. $M = \{ 1, 2, 3\}$ und $N = \{1, 2 \}$
 
-### [[Mengen#Kartesisches Produkt]]
+### [[1 - Inbox/Mengen#Kartesisches Produkt]]
 
 Aufgabe:
 $M = \{ n \in \mathbb{N} \; | \; \text{n ist gerade} \}$ und $N = \{ z \in \mathbb{Z} \; | \; \text{z ist teilbar durch 3}\}$

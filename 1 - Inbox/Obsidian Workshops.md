@@ -2,7 +2,7 @@
 created: 2023-09-15
 ran:
 ---
-# [[Obsidian]] Workshops 
+# [[1 - Inbox/Obsidian]] Workshops 
 
 ## Aufgaben
 

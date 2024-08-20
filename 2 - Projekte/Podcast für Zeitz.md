@@ -45,7 +45,7 @@ Stimmübungen[^3] sind auch sehr wichtig. Bei npr[^4] gibt es tolles Trainingsma
 
 Podcast-Scripts...[^7]
 
-[[Podcast Interview techniques]]
+[[1 - Inbox/Podcast Interview techniques]]
 
 ## Gesprächspartner
 

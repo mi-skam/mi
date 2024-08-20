@@ -16,7 +16,7 @@ tags:
 - [ ] Musikbox für Aljoscha
 - [ ] Batteriepack von ilias löten
 - [ ] Homelab mit Nix neu bauen
-	- [ ] [[Nix]]
+	- [ ] [[1 - Inbox/Nix]]
 - [ ] Flyermap react app
 - [ ] ⛵ Segelboot fahren
 - [ ] Studium
