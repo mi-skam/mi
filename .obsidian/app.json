@@ -1,5 +1,10 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "shortest",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "0 - Meta/Attachments",
+  "showRibbon": true
 }
