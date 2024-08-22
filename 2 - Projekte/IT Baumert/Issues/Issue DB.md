@@ -76,16 +76,18 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Done:
+  done:
     input: checkbox
-    accessorKey: Done
-    key: Done
+    accessorKey: done
+    key: done
     id: Done
     label: Done
-    position: 100
+    position: 4
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 2
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
