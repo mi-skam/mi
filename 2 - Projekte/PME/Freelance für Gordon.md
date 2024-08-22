@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+created: 2024-08-02T10:27:06+02:00
+modified: 2024-08-22T15:07:51+02:00
 ---
 
 ## Tracking
@@ -72,7 +74,6 @@ In Zeile:1 Zeichen:1
 Wir versuchen uns an DDA (direct device assignment)
 https://armann-systems.com/wiki/microsoft-hyper-v-grafikkarten-unterstuetzung-mit-dda/
 https://docs.nvidia.com/vgpu/latest/grid-vgpu-user-guide/index.html#using-gpu-pass-through-windows-server-hyper-v
-https://armann-systems.com/wiki/microsoft-hyper-v-grafikkarten-unterstuetzung-mit-dda/
 
 https://www.tenforums.com/virtualization/195745-tutorial-passing-through-gpu-hyper-v-guest-vm.html
 
