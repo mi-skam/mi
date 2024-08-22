@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-22T15:07:51+02:00
+modified: 2024-08-22T21:28:21+02:00
 ---
 
 ## Tracking
@@ -69,6 +69,25 @@ In Zeile:1 Zeichen:1
 
 
 ## Nvidia RTX A5000 virtualisieren
+
+Unmount from Host, mount to VM
+```powershell
+# disable the host device
+$location = "PCIROOT(0)#PCI(0101)#PCI(0000)"
+$vm = "APVWSGPU3"
+# disable the GPU in the device manager, find a powershell command
+Dismount-VMHostAssignableDevice -force -LocationPath $location
+Add-VMAssignableDevice -LocationPath $location -VMName $vm
+```
+
+Unmount from VM, attach to Host
+
+```powershell
+Remove-VMAssignableDevice -LocationPath $location -VMName $vm
+Mount-VMHostAssignableDevice -LocationPath $location
+# enable the device in the device manager, find a powershell command
+```
+
 
 ### DDA
 Wir versuchen uns an DDA (direct device assignment)
