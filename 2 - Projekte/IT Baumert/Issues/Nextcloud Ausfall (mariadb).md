@@ -1,10 +1,10 @@
 ---
 Date: 2024-08-20T00:00:00.000+02:00
-modified: 2024-08-22T13:05:29+02:00
+modified: 2024-08-22T14:42:05+02:00
 created: 2024-08-20T13:37:56+02:00
 tags:
   - baumert/nextcloud
-done: true
+Done: true
 ---
 
 [[2024-08-20]] 07:11 hat mir [[Sven Baumert|Sven]]  geschrieben, dass er die [cloud.ladenbau-baumert.de](https://cloud.ladenbau-baumert.de/) nicht erreichen kann. 
