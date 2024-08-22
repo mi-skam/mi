@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-22T21:59:23+02:00
+modified: 2024-08-22T22:11:16+02:00
 ---
 
 ## Tracking
@@ -97,6 +97,7 @@ https://docs.nvidia.com/vgpu/latest/grid-vgpu-user-guide/index.html#using-gpu-pa
 https://www.tenforums.com/virtualization/195745-tutorial-passing-through-gpu-hyper-v-guest-vm.html
 
 https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/deploying-graphics-devices-using-dda
+https://forums.developer.nvidia.com/t/multiple-gpu-assignments-to-a-single-hyper-v-vm-with-dda/274238/2
 
 > [!quote]- [Nicklas Thomsen](https://learn.microsoft.com/en-us/users/na/?userid=96ef78b5-0000-0006-0000-000000000000) https://learn.microsoft.com/en-us/answers/questions/1254192/hyper-v-easy-gpu-pv-how-dose-the-gpu-partitioning
 > Hello Thomas,
