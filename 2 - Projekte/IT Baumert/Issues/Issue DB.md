@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 124
+    width: 264
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -40,8 +40,10 @@ columns:
     position: 2
     skipPersist: false
     isHidden: false
-    sortIndex: -1
-    width: 124
+    sortIndex: 1
+    width: 139
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -51,19 +53,39 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Tags:
-    input: tags
-    accessorKey: Tags
-    key: Tags
-    id: Tags
-    label: Tags
+  __tags__:
+    key: __tags__
+    id: __tags__
+    input: metadata_tags
+    label: File Tags
+    accessorKey: __tags__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 3
+    isHidden: false
+    sortIndex: -1
+    width: 299
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Done:
+    input: checkbox
+    accessorKey: Done
+    key: Done
+    id: Done
+    label: Done
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 219
-    options:
-      - { label: "baumert/nextcloud", value: "baumert/nextcloud", color: "hsl(199, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -76,7 +98,7 @@ columns:
 config:
   remove_field_when_delete_column: true
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
@@ -86,7 +108,7 @@ config:
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  show_metadata_tags: false
+  show_metadata_tags: true
   source_data: current_folder_without_subfolders
   source_form_result: 
   source_destination_path: /
