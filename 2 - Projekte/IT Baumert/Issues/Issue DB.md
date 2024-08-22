@@ -51,19 +51,19 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Project:
-    input: select
-    accessorKey: Project
-    key: Project
-    id: Type
-    label: Project
-    position: 3
+  Tags:
+    input: tags
+    accessorKey: Tags
+    key: Tags
+    id: Tags
+    label: Tags
+    position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 184
+    width: 219
     options:
-      - { label: "nextcloud migration", value: "nextcloud migration", color: "hsl(118, 95%, 90%)"}
+      - { label: "baumert/nextcloud", value: "baumert/nextcloud", color: "hsl(199, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -73,7 +73,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
 config:
   remove_field_when_delete_column: true
   cell_size: normal
