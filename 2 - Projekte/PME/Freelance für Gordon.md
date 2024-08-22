@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-22T22:11:16+02:00
+modified: 2024-08-22T22:30:31+02:00
 ---
 
 ## Tracking
@@ -143,7 +143,7 @@ https://forums.developer.nvidia.com/t/multiple-gpu-assignments-to-a-single-hyper
 > 
 > Nicklas
 
-
+https://learn.microsoft.com/de-de/windows-server/virtualization/hyper-v/gpu-partitioning?pivots=azure-stack-hci
 
 
 PCIROOT(0)#PCI(0101)#PCI(0000) GPU
