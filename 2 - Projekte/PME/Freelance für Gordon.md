@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-26T11:29:33+02:00
+modified: 2024-08-26T12:21:52+02:00
 ---
 
 ## Tracking
@@ -166,8 +166,11 @@ Add-VMAssignableDevice -LocationPath gpu-device-location -VMName vm-name
 > 4. **Assign the GPU** and, if present, the audio device that you dismounted in the previous step to the VM.
 
 
+> [!WARNING] DDA Inkompatibilität seit Window Server 2019
+> 
+
 Wie kann ich auf Freigaben zugreifen, solang ich mit dem hvadm User eingeloggt bin?
-Wieso habe ich hvadm nicht die Rechte `get-vm`, `set-vm` in der powershell auszuführen?
+
 
 ![[Screenshot 2024-08-05 224058.png]]
 
