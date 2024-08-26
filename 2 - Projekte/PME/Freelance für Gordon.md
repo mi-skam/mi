@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-26T14:12:56+02:00
+modified: 2024-08-26T22:05:06+02:00
 ---
 
 ## Tracking
@@ -33,35 +33,6 @@ $cred = New-Object -TypeName System.Management.Automation.PSCredential -Argument
 Get-VM -ComputerName apsrvhv2 -Credential $cred
 ```
 
-```shell
-Get-VM -ComputerName apsrvhv2 -Credential $cred                                     
-
-Get-VM : Es konnte keine Verbindung zum Verwaltungsdienst für virtuelle Computer auf Computer "apsrvhv2" 
-
-hergestellt werden: Die Anforderung kann vom WinRM-Client nicht verarbeitet werden. Eine Computerrichtlinie   
-
-ermöglicht nicht die Delegierung der Benutzeranmeldeinformationen an den Zielcomputer. Verwenden Sie
-
-"gpedit.msc", und betrachten Sie die folgende Richtlinie: Computerkonfiguration -> Administrative Vorlagen    
-
--> System -> Delegierung von Anmeldeinformationen -> Delegierung von aktuellen Anmeldeinformationen
-
-zulassen.  Stellen Sie sicher, dass die Anwendung aktiviert und mit einem für den Zielcomputer geeigneten     
-
-SPN konfiguriert ist.  Beispiel: Für den Zielcomputernamen "myserver.domain.com" kann der SPN eine der        
-
-folgenden Bezeichnungen besitzen: WSMAN/myserver.domain.com oder WSMAN/*.domain.com..
-
-In Zeile:1 Zeichen:1
-
-+ Get-VM -ComputerName apsrvhv2 -Credential $cred
-
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    + CategoryInfo          : NotSpecified: (:) [Get-VM], VirtualizationException
-
-    + FullyQualifiedErrorId : Unspecified,Microsoft.HyperV.PowerShell.Commands.GetVM
-```
 
 ## Microsoft RDP macOS
 
