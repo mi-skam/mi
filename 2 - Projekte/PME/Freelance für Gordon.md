@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-26T12:21:52+02:00
+modified: 2024-08-26T14:12:56+02:00
 ---
 
 ## Tracking
@@ -158,12 +158,6 @@ Dismount-VMHostAssignableDevice -LocationPath gpu-device-location -force
 Add-VMAssignableDevice -LocationPath gpu-device-location -VMName vm-name
 ```
 
-
-> [!NOTE] Title
-> 1. Obtain the **location path of the GPU** that you want to assign to a VM.
-> 2. If you are using an actively cooled NVIDIA Quadro graphics card, obtain the **location path of the audio device on the graphics card** and disable the device.
-> 3. **Dismount the GPU** and, if present, the audio device from host to make them unavailable to the host so that they can be used solely by the VM.
-> 4. **Assign the GPU** and, if present, the audio device that you dismounted in the previous step to the VM.
 
 
 > [!WARNING] DDA Inkompatibilität seit Window Server 2019
