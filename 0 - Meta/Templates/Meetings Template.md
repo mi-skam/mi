@@ -1,7 +1,8 @@
 ---
+created: <% tp.file.creation_date() %>
+attendees: 
 tags:
   - meeting
-attendees:
 ---
 
 summary::
@@ -9,4 +10,4 @@ summary::
 ## TOPs
 1.
 
-##  Notes
+##  📝 Notes
