@@ -1,3 +1,7 @@
+---
+created: 2024-08-11T20:21:34+02:00
+modified: 2024-08-28T09:39:50+02:00
+---
 
 ***Bruttogehalt*** = Gehalt 
 ***Nettogehalt***  = Gehalt - Steuer auf das Bruttogehalt
@@ -16,7 +20,7 @@ Betrifft alle monetären und nicht monetären (=Geldwerte) Umsätze. Geht vom Ne
 
 [STEUERBERECHNUNG FÜR EINKOMMENSTEUERPFLICHTIGE](https://www.bmf-steuerrechner.de/ekst/eingabeformekst.xhtml)
 ### Einkünfte
-Man rechnet alle EInkommensarten zusammen und kann somit (teilweise) auch Einkommen verrechnen, z.B. Gewinne aus nicht selbstständiger Arbeit mit Einkommen aus selbstständiger oder gewerblicher Tätigkeit, was wiederum die Steuerlast reduziert.
+Man rechnet alle Einkommensarten zusammen und kann somit (teilweise) auch Einkommen verrechnen, z.B. Gewinne aus nicht selbstständiger Arbeit mit Einkommen aus selbstständiger oder gewerblicher Tätigkeit, was wiederum die Steuerlast reduziert.
 
 Summen von Einkünften:
 - Land- und Forstwirtschaft
