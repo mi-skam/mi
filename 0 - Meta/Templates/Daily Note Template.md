@@ -1,7 +1,7 @@
 ---
-created: <% tp.file.creation_date() %>
 tags:
   - daily
+created: <% tp.file.creation_date() %>
 ---
 
 << [[4 - Kalender/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|gestern]]  | [[4 - Kalender/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|morgen]] >>
