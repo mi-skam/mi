@@ -1,1 +1,1 @@
-[[4 - Kalender/Dailies/<%tp.date.now("YYYY-MM-DD",-1,tp.file.title,"YYYY-MM-DD")%>|gestern]]  - [[<%moment(tp.file.title).format("dddd")%>]] - [[4 - Kalender/Dailies/<%tp.date.now("YYYY-MM-DD",1,tp.file.title,"YYYY-MM-DD")%>|morgen]]
+[[4 - Kalender/Dailies/<%tp.date.now("YYYY-MM-DD",-1,tp.file.title,"YYYY-MM-DD")%>|gestern]]  - <%moment(tp.file.title).format("dddd")%> - [[4 - Kalender/Dailies/<%tp.date.now("YYYY-MM-DD",1,tp.file.title,"YYYY-MM-DD")%>|morgen]]
