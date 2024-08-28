@@ -1,4 +1,10 @@
-## Zusammenhang
+---
+created: 2024-06-10 14:42
+modified: 2024-08-29 00:55
+---
+
+> [!quote] Persönlichkeit
+> minimal Sounds, electronic genius
 
 Ich habe Ralf auf der DEWO-Week 2023 in Dresden in der Hanse3 kennen gelernt und in seinem Workshop einen sehr unkonventionellen, noisy Synthesizer gebaut. (Das Teil funktioniert auch😂😎 ).
 
