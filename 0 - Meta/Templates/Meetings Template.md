@@ -1,6 +1,6 @@
 ---
+attendees:
 created: <% tp.file.creation_date() %>
-attendees: 
 tags:
   - meeting
 ---
