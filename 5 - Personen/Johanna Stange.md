@@ -2,7 +2,7 @@
 tags:
   - people
 created: 2024-06-06
-modified: 2024-08-29 03:04
+modified: 2024-08-29 08:52
 ---
 Sachbearbeiterin IHK
 
