@@ -2,7 +2,7 @@
 tags:
   - daily
 created: 2024-08-29 01:07
-modified: 2024-08-29 11:42
+modified: 2024-08-29 11:47
 ---
 << [[4 - Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4 - Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
 
@@ -15,7 +15,20 @@ _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
 # 📝 Notes
 
+## Meeting mit Gordan
 - "Die AFD hat das Ziel 33% zu schaffen, da damit verfassungsändernde Möglichkeiten nicht mehr möglich sind. Sie halten defakto eine Sperr-Minorität."
+
+## WOW Brunch Impulsvortrag
+
+"In zehn Jahren werden nur noch *nachhaltige Marken* erfolgreich sind." Axel Berger (Podcast, Brand Eins)
+
+**Marke**
+- Identität und Werte (Emotionen, Assoziationen, Wahrnehmungen)
+- Die Produkte und Logos sind noch keine Marke
+- Konsistenz: Kommunikation, Produkte, Verhalten 
+- Relevanz: Bedürfnisse, Wünsche 
+- Transparenz
+- Innovation (20%), z. B. Produkte, Leistungen 
 
 ---
 ### Notes last touched today
