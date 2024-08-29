@@ -15,6 +15,18 @@ _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
 # 📝 Notes
 
+## WOW Brunch Impulsvortrag
+
+"In zehn Jahren werden nur noch *nachhaltige Marken* erfolgreich sind." Axel Berger (Podcast, Brand Eins)
+
+**Marke**
+- Identität und Werte (Emotionen, Assoziationen, Wahrnehmungen)
+- Die Produkte und Logos sind noch keine Marke
+- Konsistenz: Kommunikation, Produkte, Verhalten 
+- Relevanz: Bedürfnisse, Wünsche 
+- Transparenz
+- Innovation (20%), z. B. Produkte, Leistungen 
+
 ---
 ### Notes last touched today
 ```dataview
