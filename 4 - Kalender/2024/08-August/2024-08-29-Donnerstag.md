@@ -2,7 +2,7 @@
 tags:
   - daily
 created: 2024-08-29 01:07
-modified: 2024-08-29 08:52
+modified: 2024-08-29 11:42
 ---
 << [[4 - Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4 - Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
 
@@ -14,6 +14,8 @@ _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 - [ ] 
 
 # 📝 Notes
+
+- "Die AFD hat das Ziel 33% zu schaffen, da damit verfassungsändernde Möglichkeiten nicht mehr möglich sind. Sie halten defakto eine Sperr-Minorität."
 
 ---
 ### Notes last touched today
