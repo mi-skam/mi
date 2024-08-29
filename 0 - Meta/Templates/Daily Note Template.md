@@ -8,7 +8,9 @@ created: <% tp.file.creation_date() %>
 # 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
-- [ ] 
+```dataview
+TASK from "4 - Kalender/Tasks"
+```
 
 # 📝 Notes
 
