@@ -2,22 +2,31 @@
 tags:
   - daily
 created: 2024-08-29 01:07
-modified: 2024-08-29 14:30
+modified: 2024-08-29 14:31
 ---
 << [[4 - Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4 - Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
 
 # 📋 Tasks
 _Backlog: Google [Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
 
-- [ ] 45m [boot.dev](https://www.boot.dev/lessons/c7dd962f-9a2d-4228-80b1-840cc3aca886)
+```dataview
+TASK "6 - Tasks"
+```
+
+- [x] 45m [boot.dev](https://www.boot.dev/lessons/c7dd962f-9a2d-4228-80b1-840cc3aca886)
 - [ ] 45m coursera: [tcp/ip](https://www.coursera.org/learn/tcpip/lecture/vGioy/1-2-automatic-internet-setup-using-dhcp)
 - [ ] Upload Wordpress
 - [ ] Matrix-Server in Go (Dendrite)
+- [ ] AP GPU Test setup
+- [ ] Lesender Zugriff auf S2D
 
 # 📝 Notes
 
 ## Meeting mit Gordan
 - "Die AFD hat das Ziel 33% zu schaffen, da damit verfassungsändernde Möglichkeiten nicht mehr möglich sind. Sie halten defakto eine Sperr-Minorität."
+- Fachliche Reflektion des QM-Prozesses mit [[Phil-Gordon-Zameit]]
+- AP GPU Test setup
+- outline muss noch neu deployed werden mit besseren Secrets
 
 ## WOW Brunch Impulsvortrag
 
