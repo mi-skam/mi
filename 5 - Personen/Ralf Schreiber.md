@@ -2,7 +2,7 @@
 tags:
   - people
 created: 2024-06-10 14:42
-modified: 2024-08-29 00:55
+modified: 2024-08-29 03:06
 ---
 
 > [!quote] Persönlichkeit
@@ -20,3 +20,12 @@ Minimale Soundelektronik mit Piezos, und Solarzellen
 ![[PXL_20230510_125125275.jpg|200]]
 
 https://global-forest.com/programm/vogelklang-soundcamp-6
+
+## Meetings
+
+```dataview
+TABLE summary as "Summary" from [[Ralf Schreiber]]
+WHERE contains(tags, "meeting")
+SORT date desc
+```
+

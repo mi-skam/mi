@@ -1,12 +1,13 @@
 ---
 tags:
   - people
-modified: 2024-08-20T14:04:55+02:00
+modified: 2024-08-29 03:01
+created: 2024-06-10 14:42
 ---
 
 ## Meetings
 ```dataview
 TABLE summary as "Summary" from [[Malte Westphalen]]
-WHERE contains(type, "meeting")
+WHERE contains(tags, "meeting")
 SORT date desc
 ```
