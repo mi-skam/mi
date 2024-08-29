@@ -10,7 +10,7 @@ modified: 2024-08-29 14:31
 _Backlog: Google [Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
 
 ```dataview
-TASK "6 - Tasks"
+TASK from "6 - Tasks"
 ```
 
 - [x] 45m [boot.dev](https://www.boot.dev/lessons/c7dd962f-9a2d-4228-80b1-840cc3aca886)
