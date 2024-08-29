@@ -1,9 +1,8 @@
 ---
-in:
-  - "[[People]]"
-related: 
+tags:
+  - people
 created: 2024-06-06
-modified: 2024-08-29 01:08
+modified: 2024-08-29 02:56
 ---
 Sachbearbeiterin IHK
 

@@ -1,4 +1,6 @@
 ---
+tags:
+  - people
 created: 2024-06-10 14:42
 modified: 2024-08-29 00:55
 ---

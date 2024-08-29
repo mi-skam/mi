@@ -1,7 +1,6 @@
 ---
-in:
-  - "[[People]]"
-related: 
+tags:
+  - people
 created: 2024-06-06
 ---
 - Juristin
