@@ -2,7 +2,7 @@
 tags:
   - daily
 created: 2024-08-29 01:07
-modified: 2024-08-29 15:55
+modified: 2024-08-30 11:07
 ---
 << [[4 - Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4 - Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
 
@@ -21,6 +21,10 @@ TASK from "4 - Kalender/Tasks"
 - Fachliche Reflektion des QM-Prozesses mit [[Phil-Gordon-Zameit]]
 - AP GPU Test setup
 - outline muss noch neu deployed werden mit besseren Secrets
+
+## AP
+- Server installieren mit **GPU**
+- 
 
 ## Wordpress upload limit
 
