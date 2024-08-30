@@ -1,9 +1,10 @@
 ---
-created: "2024-08-07"
-tags:
+created: 2024-08-07
+tags: 
+modified: 2024-08-30 10:48
 ---
-## Remoting from macOS / Linux
-
+PowerShell has a twofold support for accessing remote session. The windows only protocol **WInRM** and the newer **OpenSSH**. 
+[[2024-08-30]] As my knowledge goes the support is not 100% for `OpenSSH`
 
 > [!WARNING]+ Domain name for user needs to be upper case!
 > username@domain is wrong ❌
