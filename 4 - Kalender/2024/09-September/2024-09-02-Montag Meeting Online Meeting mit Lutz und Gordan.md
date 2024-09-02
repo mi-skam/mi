@@ -7,7 +7,7 @@ tags:
   - meeting
 created: 2024-09-02 11:01
 "": 
-modified: 2024-09-02 11:27
+modified: 2024-09-02 11:46
 ---
 ## ℹ️ TOPs
 1. Docker - dckr01
@@ -17,3 +17,13 @@ modified: 2024-09-02 11:27
 ##  📝 Notes
 
 Keycloak - noch keine weiteren Termine
+
+Github - auf private setzen
+
+Welche Dienste sind von außen erreichbar
+
+SSO Hardware Token
+
+Vault
+
+
