@@ -2,12 +2,12 @@
 one-liner: 
 attendees:
   - "[[Phil-Gordon-Zameit]]"
-  - "[[Lutz]]"
+  - "[[Lutz Thies]]"
 tags:
   - meeting
 created: 2024-09-02 11:01
 "": 
-modified: 2024-09-02 11:46
+modified: 2024-09-02 12:07
 ---
 ## ℹ️ TOPs
 1. Docker - dckr01
@@ -25,5 +25,7 @@ Welche Dienste sind von außen erreichbar
 SSO Hardware Token
 
 Vault
+
+Teamsession
 
 
