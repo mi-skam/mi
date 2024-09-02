@@ -1,12 +1,12 @@
 ---
+one-liner: 
 attendees: 
 tags:
   - meeting
 created: <% tp.file.creation_date() %>
+"":
 ---
-summary::
-
-## TOPs
+## ℹ TOPs
 1.
 
 ##  📝 Notes
