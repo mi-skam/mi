@@ -2,7 +2,6 @@
   "obsidian-git",
   "obsidian-version-history-diff",
   "dataview",
-  "google-calendar",
   "obsidian-linter",
   "obsidian-zotero-desktop-connector",
   "url-into-selection",
@@ -18,5 +17,5 @@
   "templater-obsidian",
   "obsidian-raindrop-highlights",
   "quickadd",
-  "calendar"
+  "obsidian-full-calendar"
 ]
