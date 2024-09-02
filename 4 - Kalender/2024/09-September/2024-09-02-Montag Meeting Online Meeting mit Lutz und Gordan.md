@@ -7,7 +7,7 @@ tags:
   - meeting
 created: 2024-09-02 11:01
 "": 
-modified: 2024-09-02 12:07
+modified: 2024-09-02 12:20
 ---
 ## ℹ️ TOPs
 1. Docker - dckr01
@@ -26,6 +26,6 @@ SSO Hardware Token
 
 Vault
 
-Teamsession
+Teamsession im November
 
 
