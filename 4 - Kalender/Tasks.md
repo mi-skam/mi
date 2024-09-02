@@ -1,8 +1,10 @@
 ---
 created: 2024-08-29 14:38
-modified: 2024-09-02 14:44
+modified: 2024-09-02 15:57
 ---
-- [ ] ! steuerliche Erfassung
+- [x] ! steuerliche Erfassung
+	- [ ] Sepa-Erlaubnis
+	- [ ] Email-Erlaubnis
 - [ ] Matrix-Server in Go (Dendrite)
 - [ ] Netzwerkplan weiterbringen
 - [ ] Termin [[2024-09-04]] mit [[Christin Baumert]] und [[Phil-Gordon-Zameit]] machen
