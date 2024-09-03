@@ -13,6 +13,7 @@ TASK from "4 - Kalender/Tasks"
 
 ## 📝 Notes
 
+<% tp.file.cursor() %>
 ---
 ### Notes last touched today
 ```dataview

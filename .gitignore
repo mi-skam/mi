@@ -1,4 +1,6 @@
+
 .obsidian/plugins
+!.obsidian/plugins/templater-obsidian/data.json
 .obsidian/themes
 .obsidian/appearance.json
 .obsidian/graph.json
