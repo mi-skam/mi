@@ -9,9 +9,15 @@ status: active
 created:
   - - 2023-08-02
 tags: []
+modified: 2024-09-12T09:26:07+02:00
 ---
+## Firmware upgrade
 
-# [[Atlas/Notes/Infrastructure/Common]]
+To update the firmware via cli, you need to setup the openssh server (enable it, configure ssh pub keys)
+
+1. Get the [sysupgrade image for Archer C2600](https://firmware-selector.openwrt.org/?version=23.05.4&target=ipq806x%2Fgeneric&id=tplink_c2600)
+2. Download it to `/tmp`
+3. Upgrade the firmware `sysupgrade -v /tmp/<firmware>`
  
 ## Log
 

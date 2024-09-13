@@ -1,7 +1,6 @@
 ---
 created: 2023-12-26
-tags:
-  - x
+tags: []
 ---
 
 It's rather important to get unit-tests done, for JavaScript [[jest]] is quite popular, but as we already using [[1 - Inbox/vite]] we might use [[1 - Inbox/vitest]] as well, which is supposed to be quite compatible with _jest_ anyway.

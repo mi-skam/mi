@@ -1,13 +1,8 @@
 ---
 created: 2024-06-12
-tags:
-  - x
-modified: 2024-09-03T18:03:36+02:00
+tags: []
+modified: 2024-09-09T09:37:21+02:00
 ---
-## Capture Groups 
-
-Rename a file like _script.js_ to _script.dev.js_
-
 ```js
 // \.(js|ts|jsx|tsx) => matches .js (or .ts ...) => $1
 // replaces .js with ${postfix}$1

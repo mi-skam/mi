@@ -1,5 +1,5 @@
 ---
-modified: 2024-09-03T16:23:58+02:00
+modified: 2024-09-09T09:35:56+02:00
 ---
 [Source](https://www.youtube.com/watch?v=fwO8LzH9q3I)
 ### Links
@@ -9,7 +9,7 @@ modified: 2024-09-03T16:23:58+02:00
 4. Can be used as a map / index / hub of articles
 ### Tags
 1. Tags are an alternative to maps (e.g. #meeting)
-2. Used as a **status** (e.G. #x meaning not finished)
+2. Used as a **status**
 3. A characteristic of a note (e.G. a #book or #quotes )
 ### Folders
 1. Folders can be like a geographical maps

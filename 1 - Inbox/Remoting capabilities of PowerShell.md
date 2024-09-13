@@ -1,7 +1,7 @@
 ---
-created: 2024-08-07
 tags: 
-modified: 2024-08-30 10:48
+created: 2024-08-07
+modified: 2024-09-11T17:09:07+02:00
 ---
 PowerShell has a twofold support for accessing remote session. The windows only protocol **WInRM** and the newer **OpenSSH**. 
 [[2024-08-30]] As my knowledge goes the support is not 100% for `OpenSSH`

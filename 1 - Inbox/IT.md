@@ -1,5 +1,5 @@
 ---
-modified: 2024-09-03T18:22:38+02:00
+modified: 2024-09-09T09:48:47+02:00
 tags:
   - map
 ---
@@ -8,10 +8,12 @@ tags:
 [[Podman]]
 
 ## Windows
+[[Windows]]
 [[Reverse mouse scrolling on windows]]
 [[Adding ProfileRoot to $PATH]]
 [[Get all physical drives in Windows]]
 [[WSL]]
+[[Remoting capabilities of PowerShell]]
 
 ## Unix
 [[Backup with tar and split]]

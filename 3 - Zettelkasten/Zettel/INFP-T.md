@@ -1,6 +1,8 @@
 ---
 created: 2024-02-08
-modified: 2024-09-03T18:20:00+02:00
+modified: 2024-09-09T21:37:34+02:00
+cssclasses:
+  - wide-page
 ---
 
 Ist nach [16personalities](https://www.16personalities.com/de/infp-personlichkeit) mein Persönlichkeitstyp und wird auch als "turbulenter Mediator" (t => turbulent) bezeichnet.

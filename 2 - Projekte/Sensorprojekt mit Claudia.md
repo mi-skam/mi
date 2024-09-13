@@ -1,4 +1,7 @@
-
+---
+modified: 2024-09-10T09:42:21+02:00
+---
+![[Projektskizze_Gieß_mich copy.pages]]
 
 # Konzept
 

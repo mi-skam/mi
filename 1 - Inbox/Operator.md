@@ -3,8 +3,7 @@ aliases:
   - Rest operator
   - spread operator
 created: 2024-06-12
-tags:
-  - x
+tags: []
 modified: 2024-09-03T18:03:32+02:00
 ---
 

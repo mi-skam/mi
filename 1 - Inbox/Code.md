@@ -24,11 +24,11 @@ tags:
 [[Create a 16 character long ID]]
 [[Curry function]]
 [[Operator]]
-[[Regular Expressions]]
+[[Using RegEx to rename a file in JS]]
 [[Error handling]]
 [[Functional Style]]
 [[Generators]]
-[[Scope]]
+[[Scopes in JS]]
 [[Asynchronous Code in JavaScript]]
 
 > *TypeScript*

@@ -2,15 +2,17 @@
 tags:
   - daily
 created: <% tp.file.creation_date() %>
+modified: 2024-09-09T10:34:56+02:00
 ---
 << [[4 - Kalender/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|gestern]]  | [[4 - Kalender/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|morgen]] >>
 ## 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
-```dataview
-TASK from "4 - Kalender/Tasks"
-```
-
+> [!todo]- [[Tasks]]
+> ```dataview
+> TASK from "4 - Kalender/Tasks"
+> ```
+## ⏰ Time Blocking
 ## 📝 Notes
 
 <% tp.file.cursor() %>

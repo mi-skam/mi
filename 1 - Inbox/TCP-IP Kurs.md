@@ -1,7 +1,8 @@
 ---
-modified: 2024-09-04T10:36:21+02:00
+modified: 2024-09-09T09:37:53+02:00
 tags:
-  - mooc
+  - learning
+  - x
 ---
 ## Addresses
 1. IP Address: 32bit long, e.G. *192.168.0.0*
@@ -26,16 +27,17 @@ tags:
 - OSI has **7 Layers** | TCP/IP has **5 layers** (App, Presentation and Session is  united into one Application Layer)
 
 ### Network Operations
-= How does the Protocol works
+= How does the Protocol work
 
 A host wants to send a file to another host
 1. **Payload segments** = **Application Date File** is divided based on the **MTU** size of the **IP Packet** and **Ethernet Frame size** 
 2. Payload segments + TCP
 	1. Both hosts setup a TCP session using a *3 way handshake*
 	2. host 1 sends a **syn** package, host 2 replies with a **ack** and a **syn** which host 1 **ack** again
-	3. TCP Flow and Error control is only controlled end-to-end between the hosts
+	3. & TCP flow and error control is only controlled end-to-end between the hosts
 3. Payload segments + TCP + IP
 	1. IP header includes source and destination IP Address
 	2. IPv4 and IPv6 have different IP headers
 4. Payload segments + TCP + IP + Eth
-	1. Ethernet header and
+	1. Ethernet header and trailer are used by _Ethernet Switches_
+	2. & _Ethernet switches_ will conduct flow and error control

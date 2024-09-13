@@ -1,7 +1,6 @@
 ---
 modified: 2024-09-03T16:54:49+02:00
 tags:
-  - x
   - map
 ---
 ## Prompting

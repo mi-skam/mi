@@ -1,3 +1,10 @@
+---
+tags:
+  - x
+  - learning
+modified: 2024-09-09T09:50:25+02:00
+---
+
 ## Syllabus
 
 ### Ziel

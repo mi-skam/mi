@@ -1,3 +1,9 @@
+---
+tags:
+  - x
+modified: 2024-09-09T09:48:28+02:00
+---
+[[Reverse mouse scrolling on windows]]
 ## Fix boot loader 
 
 [ ] Diskpart
