@@ -1,20 +1,17 @@
 ---
 created: 2024-02-08
-modified: 2024-09-09T21:37:34+02:00
-cssclasses:
-  - wide-page
+modified: 2024-09-16T13:06:50+02:00
+cssclasses: []
 ---
 
 Ist nach [16personalities](https://www.16personalities.com/de/infp-personlichkeit) mein Persönlichkeitstyp und wird auch als "turbulenter Mediator" (t => turbulent) bezeichnet.
 
-> [!blank-container|gallery] aeae
->
-> ![[Screenshot_20240208-094319.png]]
-> ![[Screenshot_20240208-094314.png]]
-> ![[Screenshot_20240208-094201.png]]
-> ![[Screenshot_20240208-094307.png]]
-> ![[Screenshot_20240208-094301.png]]
-> ![[Screenshot_20240208-094258.png]]
+![[Screenshot_20240208-094319.png]]
+![[Screenshot_20240208-094314.png]]
+![[Screenshot_20240208-094201.png]]
+![[Screenshot_20240208-094307.png]]
+![[Screenshot_20240208-094301.png]]
+![[Screenshot_20240208-094258.png]]
 
 ## Turbulent
 

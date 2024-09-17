@@ -1,5 +1,5 @@
 ---
-modified: 2024-09-09T14:11:20+02:00
+modified: 2024-09-16T11:57:53+02:00
 ---
 - [Kmonad](https://gist.github.com/amiorin/4c74f63fe599a1dcbd0933628df1aac9) entdeckt. 
 
@@ -20,5 +20,5 @@ sudo visudo -f /private/etc/sudoers.d/kmonad # add a rule to run kmonad without 
 
 <user> ALL=(root) NOPASSWD: sha256:<hash> <kmonad>
 
-sudo kmonad <kmonand.kbd>
-
+sudo kmonad <kmonand.kbd
+```

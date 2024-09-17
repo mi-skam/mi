@@ -1,5 +1,5 @@
 ---
-modified: 2024-09-09T09:48:47+02:00
+modified: 2024-09-16T12:55:03+02:00
 tags:
   - map
 ---
@@ -14,6 +14,7 @@ tags:
 [[Get all physical drives in Windows]]
 [[WSL]]
 [[Remoting capabilities of PowerShell]]
+[[Domänencontroller mit der PowerShell installieren]]
 
 ## Unix
 [[Backup with tar and split]]

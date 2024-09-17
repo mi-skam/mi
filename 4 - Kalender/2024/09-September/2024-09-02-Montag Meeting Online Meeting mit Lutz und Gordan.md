@@ -1,7 +1,7 @@
 ---
 summary: 
 attendees:
-  - "[[Phil-Gordon-Zameit]]"
+  - "[[Phil-Gordan-Zameit]]"
   - "[[Lutz Thies]]"
 tags:
   - meeting

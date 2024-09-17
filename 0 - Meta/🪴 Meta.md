@@ -1,6 +1,7 @@
 ---
-modified: 2024-09-09T09:34:27+02:00
+modified: 2024-09-16T13:28:26+02:00
 ---
+[[Bücher]] | [[Dokus]] | [[Filme]]
 ## Maps
 ```dataview
 LIST FROM #map
