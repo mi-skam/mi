@@ -10,9 +10,9 @@ modified: 2024-08-30 11:21
 # 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
-- [ ] 45m [boot.dev](https://www.boot.dev/lessons/c7dd962f-9a2d-4228-80b1-840cc3aca886)
-- [ ] 45m coursera: [tcp/ip](https://www.coursera.org/learn/tcpip/lecture/vGioy/1-2-automatic-internet-setup-using-dhcp)
-- [ ] 
+- [x] 45m [boot.dev](https://www.boot.dev/lessons/c7dd962f-9a2d-4228-80b1-840cc3aca886) ✅ 2024-09-30
+- [x] 45m coursera: [tcp/ip](https://www.coursera.org/learn/tcpip/lecture/vGioy/1-2-automatic-internet-setup-using-dhcp) ✅ 2024-09-30
+- [x]  ✅ 2024-09-30
 
 # 📝 Notes
 

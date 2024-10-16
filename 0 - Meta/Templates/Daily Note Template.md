@@ -2,20 +2,24 @@
 tags:
   - daily
 created: <% tp.file.creation_date() %>
-modified: 2024-09-16T11:56:46+02:00
+modified: 2024-09-25T00:05:19+02:00
 ---
-<< [[4 - Kalender/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM-MMMM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|gestern]]  | [[4 - Kalender/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM-MMMM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|morgen]] >>
-## 📋 Tasks
-_Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
+<< [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(-1, 'd').format("[4 - Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|gestern]] | [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(1, 'd').format("[4 - Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|morgen]] >>
 
-> [!todo]- [[Tasks]]
-> ```dataview
-> TASK from "4 - Kalender/Tasks"
-> ```
-## ⏰ Time Blocking
 ## 📝 Notes
 
-<% tp.file.cursor() %>
+## ⏰ Time Blocking
+
+## ✅ Tasks
+
+_[Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
+```tasks
+not done
+filename does not include {{query.file.filename}}
+group by scheduled
+path does not include Template
+```
+
 ---
 
 **Notes created today**

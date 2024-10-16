@@ -1,13 +1,12 @@
 ---
-description:
-  - Synology NAS 2TB (RAID-0 SSD), 1*8TB external HDD
+description: Synology NAS 2TB (RAID-0 SSD), 1*8TB external HDD
 roles:
   - nas
   - container-host
 os: qnap
 status: active
 created: 2023-08-02
-modified: 2024-09-13T23:20:07+02:00
+modified: 2024-09-30T15:40:16+02:00
 ---
 ## Maintenance
 

@@ -1,0 +1,2 @@
+> [!TIP] <% tp.file.cursor() %>
+> 

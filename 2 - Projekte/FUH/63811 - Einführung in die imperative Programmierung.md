@@ -1,21 +1,14 @@
 ---
-parent:
-  - "[[Fernuni Hagen MOC]]"
-created: 2024-03-30
-tags: []
- 2024-06-05T13:46:18+02:00
-starts: 2024-04-02
-ends:
+tags:
+  - fuh
+modified: 2024-10-10T19:03:14+02:00
 ---
-
-https://moodle.fernuni-hagen.de/course/view.php?id=128#section-0
-
+[Moodle-Link](https://moodle.fernuni-hagen.de/course/view.php?id=1818)
 ## Administratives
 
-Alle inhaltlichen Fragen sollen im Forum gestellt werden.
-
-**Keine** wöchentlichen Einsendeaufgaben
-
-Die **Prüfungsklausur zum Modul **63811\***\* findet am **17.08.2024\*\* in Präsenz an verschiedenen Orten statt.
-
 Die **Anmeldung zur Klausur** erfolgt über das Prüfungsportal: [https://pos.fernuni-hagen.de](https://pos.fernuni-hagen.de)
+- Einsendeaufgaben sind freiwillig
+- Prüfungsklausur in Präsenz mit Papier und Stift
+
+- [ ] die nächsten zwei Wochen A1 lösen #fuh 🛫 2024-10-10 📅 2024-10-24
+- [ ] Kapitel 5 durchgearbeitet #fuh 📅 2024-12-01

@@ -1,13 +1,13 @@
 ---
-description:
-  - intel i5 6500u (4c, 8gb, 512GBSSD)
+description: intel i5 6500u (4c, 8gb, 512GBSSD)
 roles:
   - dev, backup, vm-server
 os: nixos
 ip: 192.168.178.184
-status: active
+status: inactive
 created:
   - - 2023-08-02
+modified: 2024-09-21T22:29:07+02:00
 ---
 # [[Victor]]
 

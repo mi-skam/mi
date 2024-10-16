@@ -66,7 +66,7 @@ Seitlich
 
 ## Next Actions
 
-- [ ] Kalibrierungsfunktion (Bildabstand, Bildausschnitt)
-- [ ] Videoanalyse nicht stabil, Bildschirmschoner aktiviert sich ständig
-- [ ] Interessante Idee: Kalibrierung für den Therapeuten konfigurierbar machen, individualisierbare Parameter (Bewegungsradien)
-- [ ] Videoanalyse aufbereiten, so dass das Team das nutzen kann (Deployment) Port: 9937
+- [-] Kalibrierungsfunktion (Bildabstand, Bildausschnitt) ❌ 2024-09-30
+- [-] Videoanalyse nicht stabil, Bildschirmschoner aktiviert sich ständig ❌ 2024-09-30
+- [-] Interessante Idee: Kalibrierung für den Therapeuten konfigurierbar machen, individualisierbare Parameter (Bewegungsradien) ❌ 2024-09-30
+- [-] Videoanalyse aufbereiten, so dass das Team das nutzen kann (Deployment) Port: 9937 ❌ 2024-09-30

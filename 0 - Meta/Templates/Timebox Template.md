@@ -1,0 +1,4 @@
+- 05:00 - 07:00 Morning ⏳ <% moment(tp.file.title, "YYYY-MM-DD-dddd").format("YYYY-MM-DD") %> 
+- 09:00 - 12:15 Late Morning ⏳ <% moment(tp.file.title, "YYYY-MM-DD-dddd").format("YYYY-MM-DD") %>
+- 12:15 - 13:00 Lunch 🥗 ⏳ <% moment(tp.file.title, "YYYY-MM-DD-dddd").format("YYYY-MM-DD") %>
+- 13:00 - 16:00 Afternoon ⏳ <% moment(tp.file.title, "YYYY-MM-DD-dddd").format("YYYY-MM-DD") %>

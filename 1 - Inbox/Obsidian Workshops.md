@@ -7,7 +7,7 @@ modified: 2024-09-03T18:18:07+02:00
 ## Aufgaben
 
 - [x] Formate überlegen 
-- [ ] Für die jeweiligen Formate ein Themenvorschlag mit Abstract entwickeln 
+- [-] Für die jeweiligen Formate ein Themenvorschlag mit Abstract entwickeln ❌ 2024-09-30
 
 ## Titel
 
@@ -34,12 +34,12 @@ modified: 2024-09-03T18:18:07+02:00
 
 ## Partner (Multiplikatoren und Plattformen)
 
-- [ ] DZZ kontaktieren
-- [ ] VHS kontaktieren
-- [ ] Stadtlabor kontaktieren
-- [ ] WOW kontaktieren
-- [ ] Frau Bergner/SL2 kontaktieren 
-- [ ] Charlotte kontaktiert das DSEE 
+- [-] DZZ kontaktieren ❌ 2024-09-30
+- [-] VHS kontaktieren ❌ 2024-09-30
+- [-] Stadtlabor kontaktieren ❌ 2024-09-30
+- [-] WOW kontaktieren ❌ 2024-09-30
+- [-] Frau Bergner/SL2 kontaktieren ❌ 2024-09-30
+- [-] Charlotte kontaktiert das DSEE ❌ 2024-09-30
 
 
 

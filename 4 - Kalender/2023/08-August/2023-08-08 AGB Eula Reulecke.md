@@ -53,4 +53,4 @@ Formulare individuell programmieren.
 
 ## Next Actions
 
-- [ ] konkrete Fragen vorbereiten und zusenden
+- [x] konkrete Fragen vorbereiten und zusenden ✅ 2024-09-30

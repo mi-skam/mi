@@ -1,5 +1,8 @@
+---
+modified: 2024-09-24T11:48:48+02:00
+---
 
-> [!quote] Dialogue with Claude, 20.8.24
+> [!quote]- Dialogue with Claude, 20.8.24
 > [...]
 > 
 > 1. Assessment and Planning ** --> alles dokumentieren, so wie es ist **
@@ -53,3 +56,24 @@
 >     - Conduct performance testing and address bottlenecks
 > 
 
+## Netzwerkplan
+
+### Inspiration
+
+![[Pasted image 20240921224036.png]]
+![[Pasted image 20240921225224.png]]
+![[Pasted image 20240922001210.png]]
+
+Cooles Rack, bestehend aus 5* MS-01 ern, zwei Switches (2.5 und 10 GBIT)
+
+![[Pasted image 20240921210226.png]]
+![[Pasted image 20240921210243.png]]
+
+
+## Terraform
+Es gibt einen Hyper-V Terraform provider, der es erlaubt VM zu deployen. Cloud-Init support scheint noch etwas "hakelig" zu sein.
+
+https://github.com/taliesins/terraform-provider-hyperv/issues/36
+
+## Docker
+Ähnlich zu linuxserver.io gibt es auf hotio.dev vorbereitete stacks und dazu passend ein [docker guide](https://wiki.servarr.com/docker-guide)

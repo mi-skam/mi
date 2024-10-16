@@ -1,6 +1,5 @@
 ---
-description:
-  - HP N54L server (1*256GB SSD, 1*Raid-1 2TB, 1*Raid-1 8TB)
+description: HP N54L server (1*256GB SSD, 1*Raid-1 2TB, 1*Raid-1 8TB)
 roles:
   - vm-host, container-host
 os: proxmox
@@ -8,8 +7,8 @@ ip: 192.168.178.99
 status: inactive
 created:
   - - 2023-08-02
+modified: 2024-09-30T15:09:29+02:00
 ---
-
 
 # [[Otelo]]
 
@@ -53,8 +52,3 @@ created:
   ```shell
   hpssacli ctrl slot=1 create type=ld drives=2I:0:7,2I:0:8 raid=1
 	```
-
-## Tasks
-
-- [ ] Disassemble the device
-- [ ] Move Date from the disks

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 created: 2024-08-02T10:27:06+02:00
-modified: 2024-08-26T22:11:56+02:00
+modified: 2024-09-20T18:09:32+02:00
 ---
 
 ## Tracking
@@ -33,12 +33,6 @@ $cred = New-Object -TypeName System.Management.Automation.PSCredential -Argument
 Get-VM -ComputerName apsrvhv2 -Credential $cred
 ```
 
-
-## Microsoft RDP macOS
-
-`fn`+`control`+`option`+`delete`
-
-
 ## Nvidia RTX A5000 virtualisieren
 
 Unmount from Host, mount to VM
@@ -58,7 +52,6 @@ Remove-VMAssignableDevice -LocationPath $location -VMName $vm
 Mount-VMHostAssignableDevice -LocationPath $location
 # enable the device in the device manager, find a powershell command
 ```
-
 
 ### DDA
 Wir versuchen uns an DDA (direct device assignment)

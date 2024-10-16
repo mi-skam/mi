@@ -28,14 +28,14 @@ modified: 2024-09-03T16:08:41+02:00
 	-  https://www.notion.so/invite/cf8bab72930d5826523141d689d05b293041e2a1 (invite)
 	-  maksim+notionworkshop1@miskam.xyz (user)
 - [x] zweiten Demo-Nutzer anlegen um Kollaboration zu demonstrieren: [[Maksim Bronsky]]
-- [ ] [[Notion Projects and Tasks ]]Vorschlag durcharbeiten
-- [ ] Notion Tutorials auf Youtube anschauen, um die Notion-Demo vorzubereiten (~1h)
-	- [ ] [Notion 101](https://www.youtube.com/playlist?list=PLzaYMdbJMZW1aW36o6KEdTe7bt38axx7T)
-	- [ ] [Tutorials: Essential Notion Features](https://www.youtube.com/playlist?list=PLzaYMdbJMZW2QQUtTM2nXARaylB396k3k)
-	- [ ] [Getting started with Notion Projects](https://www.youtube.com/playlist?list=PLzaYMdbJMZW3DeRQ_uxdl4DFHFumE_D9Q)
-	- [ ] [Notion at work: Marketing campaigns](https://www.youtube.com/watch?v=NDicG6fBGtA&list=PLzaYMdbJMZW1FE_jgQegNabzCD1xxvBsl&index=3)
-	- [ ] [Block x Block: Europe](https://www.youtube.com/playlist?list=PLzaYMdbJMZW1uaD_e9eyMhqWue6aYm55h)
-- [ ] Udemy Kursinhalt einarbeiten https://www.udemy.com/course/notion-kurs/?couponCode=LETSLEARNNOWPP
+- [-] [[Notion Projects and Tasks ]]Vorschlag durcharbeiten ❌ 2024-09-30
+- [-] Notion Tutorials auf Youtube anschauen, um die Notion-Demo vorzubereiten (~1h) ❌ 2024-09-30
+	- [x] [Notion 101](https://www.youtube.com/playlist?list=PLzaYMdbJMZW1aW36o6KEdTe7bt38axx7T) ✅ 2024-09-30
+	- [-] [Tutorials: Essential Notion Features](https://www.youtube.com/playlist?list=PLzaYMdbJMZW2QQUtTM2nXARaylB396k3k) ❌ 2024-09-30
+	- [-] [Getting started with Notion Projects](https://www.youtube.com/playlist?list=PLzaYMdbJMZW3DeRQ_uxdl4DFHFumE_D9Q) ❌ 2024-09-30
+	- [-] [Notion at work: Marketing campaigns](https://www.youtube.com/watch?v=NDicG6fBGtA&list=PLzaYMdbJMZW1FE_jgQegNabzCD1xxvBsl&index=3) ❌ 2024-09-30
+	- [-] [Block x Block: Europe](https://www.youtube.com/playlist?list=PLzaYMdbJMZW1uaD_e9eyMhqWue6aYm55h) ❌ 2024-09-30
+- [-] Udemy Kursinhalt einarbeiten https://www.udemy.com/course/notion-kurs/?couponCode=LETSLEARNNOWPP ❌ 2024-09-30
 	
 ### Workshop-Start: Einführung in Notion
 

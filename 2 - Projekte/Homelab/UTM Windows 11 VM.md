@@ -1,6 +1,7 @@
 ---
 created: 2024-08-26T22:47:35+02:00
-modified: 2024-08-28T07:13:04+02:00
+modified: 2024-09-21T15:07:27+02:00
+status: inactive
 ---
 
 - Installation von Windows 11 Pro ARM64

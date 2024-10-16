@@ -1,7 +1,12 @@
 ---
-modified: 2024-09-16T13:28:26+02:00
+modified: 2024-10-15T16:08:31+02:00
 ---
 [[Bücher]] | [[Dokus]] | [[Filme]]
+
+> [!INFO]- Alle Aufgaben
+> ```tasks
+> not done
+> ```
 ## Maps
 ```dataview
 LIST FROM #map

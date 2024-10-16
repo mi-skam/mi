@@ -1,15 +1,14 @@
 ---
-description:
-  - TP-Link Router, Access Point, OpenWRT
+description: TP-Link Router, Access Point, OpenWRT
 roles:
-  - router, ap
+  - router
+  - ap
 os: openwrt
 ip: 192.168.178.1
 status: active
 created:
   - - 2023-08-02
-tags: []
-modified: 2024-09-12T09:26:07+02:00
+modified: 2024-10-07T13:16:49+02:00
 ---
 ## Firmware upgrade
 

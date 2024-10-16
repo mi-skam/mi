@@ -1,7 +1,7 @@
 ---
 tags:
   - learning
-modified: 2024-09-13T11:26:44+02:00
+modified: 2024-09-26T15:06:41+02:00
 ---
 To start with [[Go Lang|go]] we need to install go with `homebrew`
 ```shell
@@ -45,7 +45,7 @@ fmt:
 	go fmt ./...
 
 lint: fmt
-	golint ./...
+	go lint ./...
 
 vet: fmt
 	go vet ./...

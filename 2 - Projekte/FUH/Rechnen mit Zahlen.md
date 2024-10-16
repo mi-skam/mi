@@ -1,8 +1,7 @@
 ---
 created: 2024-04-02
-modified: 2024-09-03T18:09:01+02:00
+modified: 2024-09-19T02:07:21+02:00
 ---
-
 ## Rechnen mit ganzen Zahlen
 
 Wir beginnen mit den **natürlichen Zahlen** $\mathbb{N}$:

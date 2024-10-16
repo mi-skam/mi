@@ -8,12 +8,12 @@ modified: 2024-09-12T11:44:14+02:00
 ## 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
-> [!todo]- [[Tasks]]
+> [!todo]- [[_Tasks]]
 > ```dataview
 > TASK from "4 - Kalender/Tasks"
 > ```
 ## ⏰ Time Blocking
-- [ ] 09:20 - 11:30 Golang for Docker backup
+- [x] 09:20 - 11:30 Golang for Docker backup ✅ 2024-09-30
 
 ## 📝 Notes
 

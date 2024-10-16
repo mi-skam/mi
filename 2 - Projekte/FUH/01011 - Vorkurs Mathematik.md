@@ -1,8 +1,9 @@
 ---
 created: 2024-03-14
+modified: 2024-10-03T10:07:37+02:00
 ---
 
-In diesem Vorbereitungskurs der [[Fernuni Hagen MOC]] geht es darum die Voraussetzungen zu erfüllen, die man für die Uni-Mathematik braucht.
+In diesem [Vorbereitungskurs](https://moodle-wrm.fernuni-hagen.de/pluginfile.php/629311/mod_resource/content/124/Vorkurs%20gesamt%20Endfassung%2017.10.19/indexRechnen.html)  geht es darum die Voraussetzungen zu erfüllen, die man für die Uni-Mathematik braucht.
 
 Hier ein wichtiger Hinweis aus dem Informationsschreiben
 
