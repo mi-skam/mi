@@ -21,5 +21,6 @@
   "obsidian-tasks-plugin",
   "obsidian-importer",
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "find-unlinked-files"
 ]
