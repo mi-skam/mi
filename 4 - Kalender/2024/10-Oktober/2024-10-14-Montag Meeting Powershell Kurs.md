@@ -6,7 +6,7 @@ tags:
 created: 2024-10-14 10:12
 cssclasses:
   - wide
-modified: 2024-10-16T22:33:03+02:00
+modified: 2024-10-17T11:18:58+02:00
 ---
 ![[20241014-16_PowerShell_Kurs_Carsten_Eric.pdf]]
 ##  📝 Notes
@@ -24,7 +24,7 @@ Meine Fragen
 - about Files sind Plural?
 - -Fragen zu den Parametern-
 
-- ISE gegen VSCODE langfristig tauschen
+- -ISE gegen VSCODE langfristig tauschen-
 - es gibt also powershell.exe, pwsh und azure powershell
 
 ```powershell

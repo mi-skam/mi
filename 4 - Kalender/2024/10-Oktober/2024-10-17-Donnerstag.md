@@ -1,21 +1,18 @@
 ---
 tags:
   - daily
-created: 2024-10-16 09:30
-modified: 2024-10-17T15:33:05+02:00
+created: 2024-10-17 10:11
+modified: 2024-10-17T15:35:06+02:00
 ---
-<< [[4 - Kalender/2024/10-Oktober/2024-10-15-Dienstag|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-17-Donnerstag|morgen]] >>
+<< [[4 - Kalender/2024/10-Oktober/2024-10-16-Mittwoch|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-18-Freitag|morgen]] >>
 
 ## 📝 Notes
 
-Blöder Hinweis vom [[Finanzamt Naumburg]] bekommen: Einkommenssteuer, EÜR 2023 - ich check es nicht.
-- [ ] Nach Naumburg fahren ⏳ 2024-10-18
-
 ## ⏰ Time Blocking
-
+- 10:45 - 12:15 Meeting mit PME, Auswertung des Powershellkurses
+- 13:00 - 14:30 Doku für Powershell
+- 14:30 - 15:30 [[2024-10-17-Donnerstag Meeting Mit Feli und Natalie]]
 ## ✅ Tasks
-
-- [x] Toggle track ⏳ 2024-10-16 ✅ 2024-10-17
 
 _[Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
 ```tasks
