@@ -1,6 +1,6 @@
 ---
 created: 2024-08-26T22:47:35+02:00
-modified: 2024-10-07T13:31:29+02:00
+modified: 2024-10-17T22:25:32+02:00
 description: Windows 11 vm, running on mbp
 status: active
 roles:
@@ -17,9 +17,8 @@ tags:
 - Updates installieren
 - OpenSSH-Server installieren (System > Optionale Features)
 - OpenSSH-Server automatisch starten
-- Windows PowerShell als defaultShell setzen[^1]
-- öffentlichen Schlüssel nach `__PROGRAMDATA__/ssh/administrators_authorized_keys` kopieren[^2]
+- PowerShell als Default Shell für OpenSSH einrichten[^2]
+- öffentlichen Schlüssel nach `__PROGRAMDATA__/ssh/administrators_authorized_keys` kopieren[^1]
 
-[^1]: `New-ItemProperty -Path "HKLM:\SOFTWARE\OpenSSH" -Name DefaultShell -Value "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -PropertyType String -Force`
-[^2]: `$filePath = $env:ProgramData + "\ssh\administrators_authorized_keys"`
-	`Set-Content -Path $filePath -Value "<content of ssh pub key>"`
+[^1]: [[Updating authorized keys on OpenSSH Windows#^3de869]]
+[^2]: [[Configuring the default shell for OpenSSH in Windows#^e853cb]]
