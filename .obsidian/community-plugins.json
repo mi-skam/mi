@@ -22,5 +22,6 @@
   "obsidian-importer",
   "obsidian-git",
   "obsidian-icon-folder",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "obsidian-kanban"
 ]
