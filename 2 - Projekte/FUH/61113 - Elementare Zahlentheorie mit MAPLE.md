@@ -1,6 +1,10 @@
 ---
-modified: 2024-09-19T13:20:03+02:00
+modified: 2024-10-19T13:49:12+02:00
 ---
+## Mentoriat
+https://fernuni-hagen.sciebo.de/s/rL8bLZCL604Z62C 
+Passwort: EulerPhi_2024
+
 
 > [!Info]+ Allgemeines
 > Voraussetzung ist Kapitel 1 von [[61111 - Mathematische Grundlagen]] geschafft zu haben, um sich "ein klein wenig in mathematischer

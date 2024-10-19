@@ -1,8 +1,12 @@
 ---
 created: 2024-03-29
-modified: 2024-10-10T17:11:36+02:00
+modified: 2024-10-19T13:48:20+02:00
 ---
 [Moodle-Link](https://moodle.fernuni-hagen.de/course/view.php?id=1754)
+
+## Mentoriat
+
+https://fernuni-hagen.sciebo.de/s/sr9NhYFQ5ipROZZ/authenticate Passwort: GaußElim_2024
 
 > [!INFO]+ Allgemeines
 >
