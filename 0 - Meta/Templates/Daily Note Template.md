@@ -11,6 +11,7 @@ modified: 2024-09-25T00:05:19+02:00
 ## ⏰ Time Blocking
 
 ## ✅ Tasks
+- [ ] Timetrack ⏳ <% moment(tp.file.title, "YYYY-MM-DD-dddd").format("YYYY-MM-DD")%>
 
 _[Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
 ```tasks
