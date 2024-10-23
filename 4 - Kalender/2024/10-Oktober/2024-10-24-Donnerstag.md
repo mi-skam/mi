@@ -2,7 +2,7 @@
 tags:
   - daily
 created: 2024-10-24 01:45
-modified: 2024-09-25T00:05:19+02:00
+modified: 2024-10-24T01:46:09+02:00
 ---
 << [[4 - Kalender/2024/10-Oktober/2024-10-23-Mittwoch|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-25-Freitag|morgen]] >>
 
