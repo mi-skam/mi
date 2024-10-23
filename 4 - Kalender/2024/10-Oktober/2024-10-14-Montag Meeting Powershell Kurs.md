@@ -6,7 +6,7 @@ tags:
 created: 2024-10-14 10:12
 cssclasses:
   - wide
-modified: 2024-10-17T11:18:58+02:00
+modified: 2024-10-23T10:44:34+02:00
 ---
 ![[20241014-16_PowerShell_Kurs_Carsten_Eric.pdf]]
 ##  📝 Notes

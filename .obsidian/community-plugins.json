@@ -23,5 +23,7 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "find-unlinked-files",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "link-favicon",
+  "obsidian-auto-link-title"
 ]
