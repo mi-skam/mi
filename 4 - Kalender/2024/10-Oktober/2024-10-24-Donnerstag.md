@@ -2,11 +2,14 @@
 tags:
   - daily
 created: 2024-10-24 01:45
-modified: 2024-10-24T01:46:09+02:00
+modified: 2024-10-24T05:33:34+02:00
 ---
 << [[4 - Kalender/2024/10-Oktober/2024-10-23-Mittwoch|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-25-Freitag|morgen]] >>
 
 ## 📝 Notes
+
+Create a graphical nixos vm running on a mac m1 by Mitchel Hashimoto [NixOS VM on Mac Setup - YouTube](https://www.youtube.com/watch?v=ubDMLoWz76U)
+[GitHub - mitchellh/nixos-config: My NixOS configurations.](https://github.com/mitchellh/nixos-config?tab=readme-ov-file)
 
 ## ⏰ Time Blocking
 
