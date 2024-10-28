@@ -1,5 +1,5 @@
 ---
-modified: 2024-10-27T14:38:35+01:00
+modified: 2024-10-28T08:58:39+01:00
 ---
 [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause - YouTube](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
 
@@ -62,8 +62,18 @@ p {
   - above the fold (we are lazy people)
   - avoid putting key content in traditional ad areas
 ### be consistent
+think logically = be consistent:
 - links, buttons
 - alert messages
 - forms
 - tables
 - header typefaces / sizes
+- stick to the same pattern
+- use design libraries
+
+make the experience as easy as possible
+
+### functionality is part of desing
+- bugs matter as much as beauty
+- backend impacts frontend
+- "design is where science and art break even" - robin mathew, designer
