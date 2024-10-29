@@ -6,7 +6,7 @@ tags:
 created: 2024-10-14 10:12
 cssclasses:
   - wide
-modified: 2024-10-23T10:44:34+02:00
+modified: 2024-10-29T09:07:26+01:00
 ---
 ![[20241014-16_PowerShell_Kurs_Carsten_Eric.pdf]]
 ##  📝 Notes
@@ -120,7 +120,7 @@ Manchmal braucht es nicht nur die richtigen Values sondern auch die richtigen ke
 ![[Pasted image 20241015091913.png]]
 Erzeugt eine Set-Switch `New-VMSwitch -Name ComputeSwitch -NetAdapterName VMSwitchNic1, VMSwitchNIC2 -EnableEmbeddedTeaming $true` 
 
-- [ ] Was ist eine Set-Switch? #pme
+- [x] Was ist eine Set-Switch? #pme ✅ 2024-10-29
 
 
 ![[Pasted image 20241015093028.png]]
