@@ -3,7 +3,7 @@ created: 2024-01-02
 modified: 2024-09-03T17:07:55+02:00
 ---
 
-[[1 - Inbox/Podman]] is a alternative container runtime to [[Docker]].
+[[1 - Inbox/Podman]] is a alternative container runtime to [[Get all Docker container with their project names]].
 
 ## Machine
 
