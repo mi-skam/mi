@@ -16,7 +16,7 @@ Create a graphical nixos vm running on a mac m1 by Mitchel Hashimoto [NixOS VM o
 ## ⏰ Time Blocking
 
 ## ✅ Tasks
-- [ ] Timetrack ⏳ 2024-10-24
+- [x] Timetrack ⏳ 2024-10-24 ✅ 2024-11-06
 
 _[Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_
 ```tasks
