@@ -2,7 +2,7 @@
 tags:
   - daily
 created: 2024-11-07 08:39
-modified: 2024-11-07T11:49:00+01:00
+modified: 2024-11-07T14:05:04+01:00
 ---
 << [[4 - Kalender/2024/11-November/2024-11-06-Mittwoch|gestern]] | [[4 - Kalender/2024/11-November/2024-11-08-Freitag|morgen]] >>
 
@@ -17,6 +17,9 @@ There are actually two web consoles to access, the first is  the *admin console*
 ### Chapter 2
 
 ## ⏰ Time Blocking
+
+- 09:00 - 14:00 Keycloak Buch durcharbeiten
+- 14:00 - IPerf
 
 ## ✅ Tasks
 
