@@ -3,9 +3,9 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
   "newFileLocation": "folder",
-  "newFileFolderPath": "1 - Inbox",
+  "newFileFolderPath": "1_Inbox",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "0 - Meta/Attachments",
+  "attachmentFolderPath": "0_Meta/Attachments",
   "showRibbon": true,
   "pdfExportSettings": {
     "includeName": true,
