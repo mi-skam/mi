@@ -1,6 +1,6 @@
 {
-  "folder": "4 - Kalender",
-  "template": "0 - Meta/Templates/Daily Note Template",
+  "folder": "4_Kalender",
+  "template": "0_Meta/Templates/Daily Note Template",
   "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
   "autorun": true
 }
