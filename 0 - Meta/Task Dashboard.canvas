@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"002fcb3dc5fff269","type":"text","text":"**Ready**","x":-494,"y":-290,"width":294,"height":50,"color":"4"},
+		{"id":"0c667e0ece8044f7","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nsort by due\nshort mode\n```","x":-494,"y":-200,"width":294,"height":340,"color":"4"},
+		{"id":"f892f34419818f3e","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nsort by due\nshort mode\n```","x":134,"y":-200,"width":294,"height":340,"color":"1"},
+		{"id":"2a60a417474d4516","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date) OR (has start date)\nhide tags\nlimit 8\nshort mode\n```","x":448,"y":-200,"width":290,"height":340,"color":"6"},
+		{"id":"3b84e9af73a4ca0c","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nsort by due\nshort mode\n```","x":762,"y":-200,"width":294,"height":340,"color":"3"},
+		{"id":"00447af58dab8a09","type":"text","text":"**Clarify**","x":-180,"y":-290,"width":291,"height":50,"color":"2"},
+		{"id":"5d9ba6d78ee9a477","type":"text","text":"**Scheduled**","x":451,"y":-290,"width":287,"height":50,"color":"6"},
+		{"id":"0383530d3fdec7c9","type":"text","text":"**To Discuss**","x":134,"y":-290,"width":294,"height":50,"color":"1"},
+		{"id":"593b4d2e591a97a1","type":"text","text":"**Waiting**","x":762,"y":-290,"width":292,"height":50,"color":"3"},
+		{"id":"8c1bd2e5025ae457","type":"text","text":"```tasks\nnot done\n(due before next week) OR (scheduled before next week)\nsort by due\nshort mode\n```","x":-180,"y":-200,"width":294,"height":340,"color":"2"},
+		{"id":"1d66b8d18135b62e","type":"text","text":"**Unscheduled**","x":444,"y":220,"width":294,"height":50,"color":"#c7b2d2"},
+		{"id":"55d76d0f8307bcdc","type":"text","text":"```tasks\nnot done\n(no due date) AND (no scheduled date) AND (no start date)\nhide tags\nlimit 8\nshort mode\n```","x":444,"y":280,"width":291,"height":260,"color":"#c7b2d2"},
+		{"id":"629efa1e5b1b81f2","type":"text","text":"**This month**","x":-494,"y":155,"width":294,"height":50,"color":"5"},
+		{"id":"0f721120667cacc5","type":"text","text":"```tasks\nnot done\n(has due date) OR (has scheduled date)\n((due after this week) AND (due in or before next 4 weeks)) OR ((scheduled after this week ) AND (scheduled in or before next 4 weeks))\nsort by due\nhide tags\nshort mode\n```","x":-494,"y":245,"width":294,"height":340,"color":"5"},
+		{"id":"55fd49d7928b3a1f","type":"text","text":"**Back Burner**","x":134,"y":165,"width":294,"height":50,"color":"#c7b2d2"},
+		{"id":"e1067e166f0e7c6e","type":"text","text":"**Unscheduled**","x":134,"y":225,"width":291,"height":260,"color":"#c7b2d2"}
+	],
+	"edges":[]
+}

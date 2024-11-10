@@ -16,7 +16,7 @@ modified: 2024-10-15T16:18:21+02:00
 	- [x] Weitz Video 21 #fuh ✅ 2024-10-10
 	- [x] Weitz Video 22 #fuh ✅ 2024-10-10
 	- [x] Weitz Video 23 #fuh ✅ 2024-10-10
-	- [ ] Weitz Video 24 #fuh
+	- [x] Weitz Video 24 #fuh ✅ 2024-11-10
 ## ✅ Tasks
 
 - [x] Toggl Track ⏳ 2024-10-10 ✅ 2024-10-15

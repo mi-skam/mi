@@ -1,5 +1,5 @@
 ---
-modified: 2024-10-07T14:42:14+02:00
+modified: 2024-11-10T10:24:36+01:00
 ---
 Cobot URL: [world-of-work.cobot.me](world-of-work.cobot.me)
 ## Debug
@@ -41,13 +41,3 @@ Tasks:
 - [x] WLAN neu konfigurieren ✅ 2024-10-09
 	- [x] **WPA2 Enterprise / IEEE 802.1X** parallel zu WPA2/3 ? ✅ 2024-10-07 #baumert 
 	- [x] neuer Zuschnitt, was passiert mit den alten "WLANs" (ESSIDs)? #baumert ✅ 2024-10-09
-
-
-## Datev-Integration
-- [ ] Integration von Datev  #baumert 
-
-## Dormakaba-Integration
-- [ ] Integration von [Dormakaba Exivo](https://dooraccess.apps.cobot.me/dormakaba) #baumert 
-
-## Kalender-Integration
-- [ ] Integration von [Google Calendar](https://google-calendar.apps.cobot.me/) #baumert 

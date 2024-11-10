@@ -7,7 +7,7 @@ ip: 192.168.178.184
 status: inactive
 created:
   - - 2023-08-02
-modified: 2024-09-21T22:29:07+02:00
+modified: 2024-11-10T10:26:19+01:00
 ---
 # [[Victor]]
 
@@ -27,13 +27,6 @@ Interesting dirs:
 ## Log
 
 I added a backup Samba share [[2023-08-02]],  just to create a space, where I can dump stuff from my workstations. For example I had to temporarily move some backups off of [[nc-app2]] to save some space. 
-
-
-
-## Tasks
-
-- [ ] Conversion of `/etc/nixos/configuration.nix` to `nix flakes`
-- [ ] Deploy code to other machines, Deploy target? Deploy host?
 
 
 

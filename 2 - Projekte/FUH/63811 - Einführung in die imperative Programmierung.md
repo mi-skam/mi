@@ -10,5 +10,5 @@ Die **Anmeldung zur Klausur** erfolgt über das Prüfungsportal: [https://pos.f
 - Einsendeaufgaben sind freiwillig
 - Prüfungsklausur in Präsenz mit Papier und Stift
 
-- [ ] die nächsten zwei Wochen A1 lösen #fuh 🛫 2024-10-10 📅 2024-10-24
-- [ ] Kapitel 5 durchgearbeitet #fuh 📅 2024-12-01
+- [-] die nächsten zwei Wochen A1 lösen #fuh 🛫 2024-10-10 📅 2024-10-24
+- [-] Kapitel 5 durchgearbeitet #fuh 📅 2024-12-01
