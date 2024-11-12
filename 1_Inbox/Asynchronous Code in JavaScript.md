@@ -110,7 +110,7 @@ stupidOutput();
 
 ## Await / Async
 
-Those keywords are syntactic sugar like [[1 - Inbox/OOP#'class' keyword]], under the hood it's still promise based. It looks more like *conventional* js code. 
+Those keywords are syntactic sugar like [[1_Inbox/OOP#'class' keyword]], under the hood it's still promise based. It looks more like *conventional* js code. 
 
 Comparison
 

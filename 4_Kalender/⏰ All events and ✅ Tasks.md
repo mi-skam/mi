@@ -16,7 +16,7 @@ cssclasses:
 
 > [!Info]- Dailies und Meetings
 > ```dataview
-> table one-liner as Summary, attendees as Attendees from "4 - Kalender"
+> table one-liner as Summary, attendees as Attendees from "4_Kalender"
 > where contains(tags, "meeting") or contains(tags, "daily")
 > sort file.day desc
 > ```

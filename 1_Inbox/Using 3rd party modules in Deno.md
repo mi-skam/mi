@@ -3,7 +3,7 @@ created: 2024-04-15 2024-05-14T12:52:39+02:00
 modified: 2024-09-03T18:04:06+02:00
 ---
 
-As [[1 - Inbox/Deno]] is mostly url based - avoiding any package manager (in contrast to npm), management is different.
+As [[1_Inbox/Deno]] is mostly url based - avoiding any package manager (in contrast to npm), management is different.
 
 The easiest approach to create import maps is using the `deno add` command. This adds modules from [jsr.io](jsr.io)
 

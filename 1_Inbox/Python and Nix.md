@@ -3,7 +3,7 @@ created: 2024-03-30
 modified: 2024-09-03T16:46:26+02:00
 ---
 
-[[Python match command]] and [[1 - Inbox/Nix]] can sometimes be really hard to bring together. So it's nice to have some examples how to create packages, dev environments and so forth
+[[Python match command]] and [[1_Inbox/Nix]] can sometimes be really hard to bring together. So it's nice to have some examples how to create packages, dev environments and so forth
 
 ## buildFHS (emulating a classic Linux directory structure)
 

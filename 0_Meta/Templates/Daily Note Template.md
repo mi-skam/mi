@@ -2,9 +2,9 @@
 tags:
   - daily
 created: <% tp.file.creation_date() %>
-modified: 2024-09-25T00:05:19+02:00
+modified: 2024-11-12T10:38:41+01:00
 ---
-<< [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(-1, 'd').format("[4 - Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|gestern]] | [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(1, 'd').format("[4 - Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|morgen]] >>
+<< [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(-1, 'd').format("[4_Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|gestern]] | [[<% moment(tp.file.title, "YYYY-MM-DD-dddd").add(1, 'd').format("[4_Kalender/]YYYY/MM-MMMM/YYYY-MM-DD-dddd") %>|morgen]] >>
 
 ## 📝 Notes
 

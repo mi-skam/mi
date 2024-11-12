@@ -62,7 +62,7 @@ The first line of the response is the status line. This line shows the client if
 
 ![[Pasted image 20240207184102.png]]
 
-[[1 - Inbox/HTTP-Statuscodes]]
+[[1_Inbox/HTTP-Statuscodes]]
 
 ### Headers
 

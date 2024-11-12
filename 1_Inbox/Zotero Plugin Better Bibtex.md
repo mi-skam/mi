@@ -3,7 +3,7 @@ created: 2024-01-24
 modified: 2024-09-03T18:09:27+02:00
 ---
 
-We use the [[1 - Inbox/Zotero Plugin Better Bibtex]] plugin for [[Zotero]] to ease the import of notes in _Zotero_ to [[1 - Inbox/Obsidian]]
+We use the [[1_Inbox/Zotero Plugin Better Bibtex]] plugin for [[Zotero]] to ease the import of notes in _Zotero_ to [[1_Inbox/Obsidian]]
 
 ## Citatiton Key
 

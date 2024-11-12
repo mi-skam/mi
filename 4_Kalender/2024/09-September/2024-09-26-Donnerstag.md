@@ -4,7 +4,7 @@ tags:
 created: 2024-09-23 19:00
 modified: 2024-09-26T12:55:42+02:00
 ---
-<< [[4 - Kalender/2024/09-September/2024-09-25-Mittwoch|gestern]] | [[4 - Kalender/2024/09-September/2024-09-27-Freitag|morgen]] >>
+<< [[4_Kalender/2024/09-September/2024-09-25-Mittwoch|gestern]] | [[4_Kalender/2024/09-September/2024-09-27-Freitag|morgen]] >>
 
 ## 📋 Tasks
 _Backlog: Google [Tasks](https://calendar.google.com/calendar/u/0/r/tasks)_

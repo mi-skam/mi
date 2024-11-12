@@ -16,7 +16,7 @@ Mit diesen Attributes kann man git den Umgang mit verschiedenen Dateitypen und B
 Ich habe es in den new-objects/template-* Repos implementiert, das führt zu weniger Problemen beim Nutzen von unterschiedlichen Betriebssystemen. 
 
 
-[[1 - Inbox/Github]]
+[[1_Inbox/Github]]
 
 ## Use conditional config with "includeIf"
 
@@ -76,4 +76,4 @@ git commit --amend --reset-author
 ```
 
 ## Working with submodules
-[[1 - Inbox/Checkout all submodules in a git repository]]
+[[1_Inbox/Checkout all submodules in a git repository]]

@@ -4,12 +4,12 @@ tags:
 created: 2024-09-05 10:48
 modified: 2024-09-05T12:48:44+02:00
 ---
-<< [[4 - Kalender/2024/09-September/2024-09-04-Mittwoch|gestern]]  | [[4 - Kalender/2024/09-September/2024-09-06-Freitag|morgen]] >>
+<< [[4_Kalender/2024/09-September/2024-09-04-Mittwoch|gestern]]  | [[4_Kalender/2024/09-September/2024-09-06-Freitag|morgen]] >>
 ## 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)
 
 ```dataview
-TASK from "4 - Kalender/Tasks"
+TASK from "4_Kalender/Tasks"
 ```
 
 ## 📝 Notes

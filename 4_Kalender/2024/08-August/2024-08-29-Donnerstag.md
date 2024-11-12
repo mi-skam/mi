@@ -5,7 +5,7 @@ created: 2024-08-29 01:07
 
 modified: 2024-08-30 11:21
 ---
-<< [[4 - Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4 - Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
+<< [[4_Kalender/2024/08-August/2024-08-28-Mittwoch|gestern]]  | [[4_Kalender/2024/08-August/2024-08-30-Freitag|morgen]] >>
 
 # 📋 Tasks
 _Backlog: Google [Tasks_](https://calendar.google.com/calendar/u/0/r/tasks)

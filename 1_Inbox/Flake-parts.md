@@ -1,5 +1,5 @@
 
-_Core of a distributed framework for writing [[1 - Inbox/Nix Flakes]]._
+_Core of a distributed framework for writing [[1_Inbox/Nix Flakes]]._
 
 `flake-parts` provides the options that represent standard flake attributes and establishes a way of working with `system`. Opinionated features are provided by an ecosystem of modules that you can import.
 

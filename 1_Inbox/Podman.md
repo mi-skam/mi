@@ -3,11 +3,11 @@ created: 2024-01-02
 modified: 2024-09-03T17:07:55+02:00
 ---
 
-[[1 - Inbox/Podman]] is a alternative container runtime to [[Get all Docker container with their project names]].
+[[1_Inbox/Podman]] is a alternative container runtime to [[Get all Docker container with their project names]].
 
 ## Machine
 
-To use it on [[1 - Inbox/Disable insecure SMB1 support on macOS]] or [[1 - Inbox/Windows]] we need to create a [[Linux]] [[VM]] that ships the podman environment. We can create this machine with
+To use it on [[1_Inbox/Disable insecure SMB1 support on macOS]] or [[1_Inbox/Windows]] we need to create a [[Linux]] [[VM]] that ships the podman environment. We can create this machine with
 
 ```
 podman machine init

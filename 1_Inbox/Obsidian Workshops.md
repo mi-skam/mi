@@ -2,7 +2,7 @@
 created: 2023-09-15
 modified: 2024-09-03T18:18:07+02:00
 ---
-# [[1 - Inbox/Obsidian]] Workshops 
+# [[1_Inbox/Obsidian]] Workshops 
 
 ## Aufgaben
 

@@ -4,7 +4,7 @@ tags:
 created: 2024-10-03 10:16
 modified: 2024-10-03T18:18:34+02:00
 ---
- << [[4 - Kalender/2024/10-Oktober/2024-10-02-Mittwoch|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-04-Freitag|morgen]] >>
+ << [[4_Kalender/2024/10-Oktober/2024-10-02-Mittwoch|gestern]] | [[4_Kalender/2024/10-Oktober/2024-10-04-Freitag|morgen]] >>
 
  [My Tasks](https://calendar.google.com/calendar/u/0/r/tasks)
 ## ⏰ Time Blocking

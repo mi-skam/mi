@@ -8,8 +8,8 @@ To ease things we work with the concept of ![[Controlled vocabulary - Wikipedia#
 
 | Tag              | Meaning                                               |
 | ---------------- | ----------------------------------------------------- |
-| map              | [[1 - Inbox/Map of Contents]]                                   |
-| map/view         | A [[1 - Inbox/Map of Contents]] that is derived by [[1 - Inbox/Using Dataview to create maps for content types]] |
+| map              | [[1_Inbox/Map of Contents]]                                   |
+| map/view         | A [[1_Inbox/Map of Contents]] that is derived by [[1_Inbox/Using Dataview to create maps for content types]] |
 | source/book      |                                                       |
 | source/browser   |                                                       |
 | source/paper     |                                                       |

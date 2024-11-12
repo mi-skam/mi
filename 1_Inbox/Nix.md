@@ -3,7 +3,7 @@ created: 2024-01-25
 modified: 2024-09-03T16:46:14+02:00
 ---
 
-[[1 - Inbox/Nix]] is a language used by [[NixOS]] to descriptively build Linux systems.
+[[1_Inbox/Nix]] is a language used by [[NixOS]] to descriptively build Linux systems.
 
 It is:
 
@@ -11,7 +11,7 @@ It is:
 2. lazy
 3. purpose-built
 
-It has some disadvantages[^1] , like the steep learning curve and the scattered documentation (flakes vs non-flakes approaches), but all in all it's a great tool to learn, as it's not only used to create systems, but also for the files in the home-directory [[1 - Inbox/Home-Manager]], and some advanced DevOps-Tools like [[NixOps]] and [[Colmena]].
+It has some disadvantages[^1] , like the steep learning curve and the scattered documentation (flakes vs non-flakes approaches), but all in all it's a great tool to learn, as it's not only used to create systems, but also for the files in the home-directory [[1_Inbox/Home-Manager]], and some advanced DevOps-Tools like [[NixOps]] and [[Colmena]].
 
 > [!note] Using nix in practical terms, mostly mean this
 >

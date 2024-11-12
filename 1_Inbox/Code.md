@@ -12,11 +12,11 @@ tags:
 ## JavaScript
 > *What is JavaScript?*
 
-`JavaScript`is part of the [C-family](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) languages, meaning a lot of its syntax is similar to Java, C, C++ and the likes. But it's core features are inspired by Scheme and Self (like have a [[1 - Inbox/Functional Style|function]] as a first class citizen value) and in combination with a prototype-based object orientated language style, it's a different language programming experience.
+`JavaScript`is part of the [C-family](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages) languages, meaning a lot of its syntax is similar to Java, C, C++ and the likes. But it's core features are inspired by Scheme and Self (like have a [[1_Inbox/Functional Style|function]] as a first class citizen value) and in combination with a prototype-based object orientated language style, it's a different language programming experience.
 
 ### Language
 
-`JavaScript`is quite open to the paradigms used to code it. It supports functional, [[1 - Inbox/OOP]], event driven and procedural coding, thus it needs some decisions upfront and discipline to have a coherent style. Much also depends on the frameworks and libraries used or the domain (e.G. game development is rather procedural, whereas backend development quite open). 
+`JavaScript`is quite open to the paradigms used to code it. It supports functional, [[1_Inbox/OOP]], event driven and procedural coding, thus it needs some decisions upfront and discipline to have a coherent style. Much also depends on the frameworks and libraries used or the domain (e.G. game development is rather procedural, whereas backend development quite open). 
 
 [[JS Arrays]]
 [[JS Closures]]

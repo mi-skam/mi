@@ -39,7 +39,7 @@ console.log(greeting);
 ```
 
 
-There is a special type of functions called [[1 - Inbox/Generators]] that return an iterable. They make it easier to create iterators and make the code less verbose.
+There is a special type of functions called [[1_Inbox/Generators]] that return an iterable. They make it easier to create iterators and make the code less verbose.
 
 Example of `myCustomIterable` expressed as a **generator function**
 ```js

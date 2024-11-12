@@ -3,7 +3,7 @@ aliases:
 publish: true
 created: 2023-10-09
 ---
-# [[1 - Inbox/NodeJS]]
+# [[1_Inbox/NodeJS]]
 
 To get the current directory of a running script depends on whether you are using the `commonjs` or the `es6 modules`.
 
@@ -51,6 +51,6 @@ const __dirname = new URL('.', import.meta.url).pathname
 
 ```
 
-[[1 - Inbox/Node.js minimal example  to serve files in public]]
+[[1_Inbox/Node.js minimal example  to serve files in public]]
 
-[[1 - Inbox/npm]]
+[[1_Inbox/npm]]

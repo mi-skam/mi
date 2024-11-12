@@ -83,7 +83,7 @@ interface Todo {
 }
 ```
 
-## [[1 - Inbox/Generics]]
+## [[1_Inbox/Generics]]
 
 Wenn man das `interface` erweitern möchte, aber die zukünftige Datenstruktur noch nicht kennt, führt man Generics ein. Generics sind Variable, aber nicht für Wertet, sondern für Datentypen.
 

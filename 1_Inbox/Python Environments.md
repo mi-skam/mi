@@ -12,7 +12,7 @@ To get started on Windows, install _Miniconda_ per `winget install Anaconda.Mini
 
 ### nix / home-manager
 
-Little note to systems using [[1 - Inbox/Home-Manager]]: As we control the init files for bash, you need to manage what usually `conda init` is doing by yourself - as it tries to alter `.bashrc or .zshrc.
+Little note to systems using [[1_Inbox/Home-Manager]]: As we control the init files for bash, you need to manage what usually `conda init` is doing by yourself - as it tries to alter `.bashrc or .zshrc.
 
 I ran `conda init` myself and captured the content to a arbitrary config sh:
 
@@ -98,7 +98,7 @@ conda config --set channel_priority strict
 
 ## Jupyter Notebook
 
-[[1 - Inbox/Jupyter Notebook]] can be easily installed using conda, with a focus on installing it in the base environment and switching between sub-environments.
+[[1_Inbox/Jupyter Notebook]] can be easily installed using conda, with a focus on installing it in the base environment and switching between sub-environments.
 
 ```shell
 conda install -c conda-forge notebook

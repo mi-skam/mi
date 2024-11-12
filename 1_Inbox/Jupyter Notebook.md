@@ -1,4 +1,4 @@
-A [[1 - Inbox/Jupyter Notebook]] is a frontend to create python scripts. We use [[1 - Inbox/Python Environments#Miniconda|Conda]] to install our [[1 - Inbox/Python Environments]] 
+A [[1_Inbox/Jupyter Notebook]] is a frontend to create python scripts. We use [[1_Inbox/Python Environments#Miniconda|Conda]] to install our [[1_Inbox/Python Environments]] 
 
 ### Show all currently re-gistered kernels
 ^0f3097
@@ -13,7 +13,7 @@ Available kernels:
 ^f9ca92
 ## Install JavaScript / TypeScript kernel 
 
-The tslab kernel allows to execute [[1 - Inbox/JS and TS Fullstack Development|JavaScript]] and [[1 - Inbox/TypeScript Basics]] in a Jupyter notebook. To install it, we need [[1 - Inbox/NodeJS]].
+The tslab kernel allows to execute [[1_Inbox/JS and TS Fullstack Development|JavaScript]] and [[1_Inbox/TypeScript Basics]] in a Jupyter notebook. To install it, we need [[1_Inbox/NodeJS]].
 
 ```shell
 npm i -g tslab

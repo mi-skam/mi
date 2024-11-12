@@ -19,7 +19,7 @@ Zettelkasten, Obsidian, Active Recall, Spaced Repetition
 
 [[How To Take Smart Notes - Söhnke Ahrens]]
 
-https://soztheo.de/obsidian-zettelkasten-fuer-wissenschaftliche-arbeiten/ [[1 - Inbox/morganeua's zettelkasten style]]
+https://soztheo.de/obsidian-zettelkasten-fuer-wissenschaftliche-arbeiten/ [[1_Inbox/morganeua's zettelkasten style]]
 
 https://www.youtube.com/watch?v=HNFF_EeFr9Y&list=PL-1Nqb2waX4Vba6QDVS5rhnSb9pZGTO4b
 

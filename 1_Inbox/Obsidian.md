@@ -13,7 +13,7 @@ How to decide how to structure stuff in Obsidian [[Links vs Tags vs Folders]]
 ### Obsidian File Diff
 Creates diffs from notes and find all [[Syncthing]] merge conflicts and eases the work with them.
 
-[[1 - Inbox/Templater]]
+[[1_Inbox/Templater]]
 [[Canvas]]
 
 ## Adding dynamic dates to properties (for Templates)
@@ -44,10 +44,10 @@ LIST
 </pre>
 
 [[fromSergio's Obsidian playlist]]
-[[1 - Inbox/Using Dataview to create maps for content types]]
+[[1_Inbox/Using Dataview to create maps for content types]]
 
 ## Zotero - Obsidian Workflow
 
-Inspired by this [thread](https://forum.obsidian.md/t/my-zotero-annotation-template-that-works/51662/12) I found nocona's github [repo](https://github.com/nocona71/obsidian-literature-note) presenting a set of styles and [[Templates]] for [[1 - Inbox/Obsidian]] and [[Zotero]] .
+Inspired by this [thread](https://forum.obsidian.md/t/my-zotero-annotation-template-that-works/51662/12) I found nocona's github [repo](https://github.com/nocona71/obsidian-literature-note) presenting a set of styles and [[Templates]] for [[1_Inbox/Obsidian]] and [[Zotero]] .
 
 

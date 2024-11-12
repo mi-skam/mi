@@ -20,7 +20,7 @@ or the first numbers from 1 to 10
 Array.from({ length: 10 }, (_, idx) => idx + 1);
 ```
 
-## find vs. [[1 - Inbox/Filter]]
+## find vs. [[1_Inbox/Filter]]
 
 both [[JS Arrays|Array]] methods create selections from an array. While `.filter()` creates a new Array with zero, one or many entries, `.find()` returns with the first found entry.
 
@@ -32,6 +32,6 @@ const evenNumbers = numbers.filter(isEven);
 const firstEvenNumber = numbers.find(isEven);
 ```
 
-## forEach, map, [[1 - Inbox/Reduce]]
+## forEach, map, [[1_Inbox/Reduce]]
 
-We use these three functions for a [[1 - Inbox/Functional Style]]
+We use these three functions for a [[1_Inbox/Functional Style]]

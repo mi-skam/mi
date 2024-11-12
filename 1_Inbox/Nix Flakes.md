@@ -108,8 +108,8 @@ Find packages.
 
 ## Raspberry Pi
 
-Here I have a classic nixos configuration for [[1 - Inbox/Raspberry Pi Nixos]]
+Here I have a classic nixos configuration for [[1_Inbox/Raspberry Pi Nixos]]
 
 ## Frameworks / Libraries
 
-[[1 - Inbox/Flake-parts]]
+[[1_Inbox/Flake-parts]]

@@ -4,7 +4,7 @@ tags:
 created: 2024-10-09 05:38
 modified: 2024-10-15T16:18:21+02:00
 ---
-<< [[4 - Kalender/2024/10-Oktober/2024-10-09-Mittwoch|gestern]] | [[4 - Kalender/2024/10-Oktober/2024-10-11-Freitag|morgen]] >>
+<< [[4_Kalender/2024/10-Oktober/2024-10-09-Mittwoch|gestern]] | [[4_Kalender/2024/10-Oktober/2024-10-11-Freitag|morgen]] >>
 
 ## 📝 Notes
 
