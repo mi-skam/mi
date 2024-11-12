@@ -2,7 +2,7 @@
 tags:
   - people
   - NAME
-modified: 2024-11-12T11:26:53+01:00
+modified: 2024-11-12T12:09:45+01:00
 ---
 
 > [!DISCUSS] To Discuss with *<% tp.file.title %>*
@@ -20,12 +20,3 @@ modified: 2024-11-12T11:26:53+01:00
 > hide tags
 > short mode
 > ```
-
-
-```
-
-
-> [!ASSIGNED] Assigned to <% tp.file.title %>
-> Contents
-
-

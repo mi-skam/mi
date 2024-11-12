@@ -1,15 +1,13 @@
 ---
-modified: 2024-11-12T11:40:49+01:00
+modified: 2024-11-12T11:43:02+01:00
 ---
-- [ ] Mike Schmitz: How to manage tasks in Obsidian zu ende Schauen ⏳ 2024-11-04 📅 2024-11-05
-- [ ] wiederkehrende Aufgaben in Obsidian anlegen (wie z.B. Reviews, Watch-Later-Listen, Inbox cleaning, Kontoauszüge herunterladen, Steuern machen, ...)  sart🛫 2024-11-05 📅 2024-11-05 
-- [ ] Integration von Datev  #baumert 
-- [ ] Integration von [Dormakaba Exivo](https://dooraccess.apps.cobot.me/dormakaba) #baumert 
-- [ ] Integration von [Google Calendar](https://google-calendar.apps.cobot.me/) #baumert 
-- [ ] Conversion of `/etc/nixos/configuration.nix` to `nix flakes` #homelab 
+- [x] Mike Schmitz: How to manage tasks in Obsidian zu ende Schauen ⏳ 2024-11-04 📅 2024-11-05 ✅ 2024-11-12
+- [ ] wiederkehrende Aufgaben in Obsidian anlegen (wie z.B. Reviews, Watch-Later-Listen, Inbox cleaning, Kontoauszüge herunterladen, Steuern machen, ...) 🛫 2024-11-05 📅 2024-11-05
+- [ ] Integration von Datev #baumert #later
+- [ ] Integration von [Dormakaba Exivo](https://dooraccess.apps.cobot.me/dormakaba) #baumert #later
+- [ ] Integration von [Google Calendar](https://google-calendar.apps.cobot.me/) #baumert #later
+- [ ] Conversion of `/etc/nixos/configuration.nix` to `nix flakes` #homelab
 - [ ] Deploy code to other machines, Deploy target? Deploy host? #homelab 
 - [ ] Port my "snrt" keyboard to neovim #devexp
 - [ ] Test
-
-```tasks
-```
+- [ ] I have to wait for [[Charlotte Blume]] #waiting
