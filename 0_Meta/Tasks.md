@@ -1,13 +1,23 @@
 ---
-modified: 2024-11-12T11:43:02+01:00
+modified: 2024-11-12T14:17:49+01:00
 ---
 - [x] Mike Schmitz: How to manage tasks in Obsidian zu ende Schauen ⏳ 2024-11-04 📅 2024-11-05 ✅ 2024-11-12
-- [ ] wiederkehrende Aufgaben in Obsidian anlegen (wie z.B. Reviews, Watch-Later-Listen, Inbox cleaning, Kontoauszüge herunterladen, Steuern machen, ...) 🛫 2024-11-05 📅 2024-11-05
+- [x] wiederkehrende Aufgaben in Obsidian anlegen (wie z.B. Reviews, Watch-Later-Listen, Inbox cleaning, Kontoauszüge herunterladen, Steuern machen, ...) 🛫 2024-11-05 📅 2024-11-05 ✅ 2024-11-12
 - [ ] Integration von Datev #baumert #later
 - [ ] Integration von [Dormakaba Exivo](https://dooraccess.apps.cobot.me/dormakaba) #baumert #later
 - [ ] Integration von [Google Calendar](https://google-calendar.apps.cobot.me/) #baumert #later
-- [ ] Conversion of `/etc/nixos/configuration.nix` to `nix flakes` #homelab
+- [ ] Conversion of `/etc/nixos/configuration.nix` to `nix flakes`
 - [ ] Deploy code to other machines, Deploy target? Deploy host? #homelab 
-- [ ] Port my "snrt" keyboard to neovim #devexp
-- [ ] Test
-- [ ] I have to wait for [[Charlotte Blume]] #waiting
+- [ ] Port my "snrt" keyboard to neovim #later
+- [ ] Businessplan für Solav durcharbeiten
+- [ ] Software Defined Network https://www.coursera.org/learn/sdn#modules
+- [ ] 💻 shared nixos Konfiguration für Kudos und und Windows Nixos VM (noch keinen Namen) bauen. https://github.com/dustinlyons/nixos-config?tab=readme-ov-file#nix-config-for-macos--nixos
+- [ ] 💻 qbittorrent docker container auf [[Zigzag]] installieren. mit hotio oder linuxserver.io images
+- [ ] 📼 Network basics https://www.youtube.com/playlist?list=PLi_-bNsYjSTAPZmuEZgeK9jRO0rhQ-xyU
+- [ ] 📖 Obsidian Daily Note Log entry lesen https://thebuccaneersbounty.wordpress.com/2022/01/05/how-i-use-the-daily-notes-plugin-a-comprehensive-guide/
+- [ ] FUH Anmeldung für die schriftlichen Prüfungen 📅 2025-11-15
+- [ ] 🐾 Paw Patrol Lego Adventskalender ⏫ 🛫 2024-11-12 📅 2024-11-30
+- [ ] Kentertraining im Cossi #waiting 🛫 2025-03-01
+- [ ] Ideen für den Revierpionier (Lastenrad, Code-Weekly) einreichen 🛫 2024-11-14 📅 2025-01-16
+- [ ] [[Review Daily notes]] 🔁 every week on Monday 🛫 2024-11-18
+- [ ] [[Review Mail-Inbox]] 🔁 every week on Monday ⏳ 2024-11-18

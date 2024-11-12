@@ -3,28 +3,30 @@ tags:
   - people
   - christin
 created: 2024-06-06
-modified: 2024-11-12T12:14:29+01:00
+modified: 2024-11-12T13:48:51+01:00
 ---
-
-> [!DISCUSS] To Discuss with *Christin Baumert*
-> ```tasks
+> [!DISCUSS]+ In discussion
+>```tasks
 > not done
-> (tag includes #discuss) AND (tag includes #NAME)
+> tag includes #discussion
+> description includes Christin Baumert
 > hide tags
 > short mode
 > ```
 
-> [!WAITING] Waiting for Christin Baumert
+> [!WAITING]+ Waiting for
 > ```tasks
 > not done
-> (tag includes #waiting) AND (tag includes #NAME)
+> tag includes #waiting
+> description includes Christin Baumert
 > hide tags
 > short mode
 > ```
 
-## Meetings
-```dataview
-TABLE summary as "Summary" from [[Christin Baumert]]
-WHERE contains(tags, "meeting")
-SORT date desc
-```
+> [!MEETING]+ Common mettings
+> ```dataview
+> TABLE summary as "Summary" from [[Christin Baumert]]
+> WHERE contains(tags, "meeting")
+> SORT date desc
+> ```
+---
