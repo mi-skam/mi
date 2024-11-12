@@ -25,5 +25,6 @@
   "find-unlinked-files",
   "obsidian-kanban",
   "link-favicon",
-  "obsidian-auto-link-title"
+  "obsidian-auto-link-title",
+  "callout-manager"
 ]
